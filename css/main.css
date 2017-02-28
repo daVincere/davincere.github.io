@@ -36,6 +36,29 @@
 .page-divider {
     border-bottom: 1px solid #ddd;
 }
+
+.image
+{
+	padding: 10px;
+}
+
+.links li
+{
+	display: inline;
+}
+
+.links a
+{
+	padding: 0px 10px;
+	font-weight: bold;
+	color: #434343;
+}
+
+.links a:hover
+{
+	color: #000000;
+	text-decoration: none;
+}
 /*
 **************************/
 
