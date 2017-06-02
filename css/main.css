@@ -175,8 +175,9 @@ html {
 	text-decoration: none;
 }
 
-
-
+.resume_text {
+	font-weight: bold;
+}
 .hearts 
 {
 	color: #b71c1c;
