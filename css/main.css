@@ -184,5 +184,12 @@ html {
 	color: #b71c1c;
 }
 
+.edelweiss_text{
 
-
+	color:#434343;
+}
+.edelweiss_text a:hover{
+	font-weight: bold;
+	text-decoration: none;
+	color: #000000;
+}
