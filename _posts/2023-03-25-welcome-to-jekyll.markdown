@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "the ubermensch manifesto"
 date:   2023-03-25 03:12:08 +0530
 categories: jekyll update
 ---
