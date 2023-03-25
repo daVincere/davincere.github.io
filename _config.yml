@@ -17,11 +17,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+locale: 'en-US'
 title: iamhasime
 email: hasime@alwayz.in
 description: >- # this means to ignore newlines until "baseurl:"
-  A record of a wishful journey of a wannabe entrepreneur
+  A record of journey of a wannabe entrepreneur
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "iamhasime.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamhasime
@@ -36,12 +36,27 @@ minimal_mistakes_skin2: "dark"
 
 plugins:
   - jekyll-feed
+  - jemoji
 
 defaults:
+  # home
   - scope:
       path: ""
     values:
       author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: true
+      # classes: wide
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: false
 
 author:
   name: "Hardeep Singh Mehra"
