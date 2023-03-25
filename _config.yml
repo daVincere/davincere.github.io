@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: hasime
+title: iamhasime
 email: hasime@alwayz.in
 description: >- # this means to ignore newlines until "baseurl:"
   A record of a wishful journey of a wannabe entrepreneur
@@ -29,7 +29,11 @@ github_username:  daVincere
 
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
+
+# to enable toggle between dark and default theme [ source: https://github.com/mmistakes/minimal-mistakes/discussions/2033#discussioncomment-257421 ]
+minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin2: "dark"
+
 plugins:
   - jekyll-feed
 
@@ -40,9 +44,9 @@ defaults:
       author_profile: true
 
 author:
-  name: "@iamhasime"
+  name: "Hardeep Singh Mehra"
   avatar: "/assets/images/hasime.jpg"
-  bio: "_wannabe_ entrepreneur who acts as a product guy" # Note: Markdown is allowed
+  bio: "_wannabe_ **entrepreneur** who acts as a product guy" # Note: Markdown is allowed
   location: "Bangalore, India"
   links:
     - label: "Twitter"
@@ -54,7 +58,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/iamhasime"
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
