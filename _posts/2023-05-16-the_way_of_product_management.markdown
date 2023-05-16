@@ -7,23 +7,23 @@ tag: philosophy, product, product-management
 ---
 ## How to become great at the abstract job that is product management.
 ---
-Product management is the job of managing and solving the **abstract**. There are a lot of anecdotes out there to simplify the definition of the job but this is the most recent and interesting one that I came across. As it is often the way of things, very often the subject becomes the critique of its definition. This happened to me a few weeks ago wherein, the meaning of PM-ship became an abstract question for me. 
+Product management is the job of managing and solving the **abstract**. There are a lot of beautiful anecdotes out there to simplify the definition but this is the most recent and interesting one that I've come across. It's often the way of things, in time the subject becomes the critique of its definition. This happened to me a few weeks ago wherein, the meaning of PM-ship became an abstract question for me. 
 
-What does it mean to be a *great* PM? How could I become one, I asked myself. Everything worth doing is worth doing well, I thought to myself. Every pursuit should be a pursuit for excellence, I read in the book: "The Book of Five Rings".
+What does it mean to be a *great* PM? How could I become one, I asked myself. Everything worth doing is worth doing well, I thought. Every profession ought to be a pursuit for excellence, I read in the book: "The Book of Five Rings".
 
-In the past, I always thought the following is what was needed to be a *great* PM:
+In the past, I thought the following is what was needed to be a *great* PM:
 1. Passion for creating products.
 2. Ability to get things done.
 
-While the above may be true, I've now found that these are just attributes. 
+I've now found that these are just the essential attributes to be a PM. Just a PM.
 
-While the passion for creating products may fuel you to create products, features, and PRDs; you can still make bad products and come out happy with your efforts.
+While passion for creating products may fuel you to create products, features, and PRDs; you can still make bad products and come out happy with your efforts.
 
-Getting things done, or **execution**, makes you an operator. While it is an important attribute to being a PM, it isn't what can make you "great". 
+Getting things done, or **execution**, makes you an operator. It is an important attribute to being a PM but it isn't what makes one "great". 
 
 Regular PMs, in my opinion, are passive. They wait for feature requests. Good PMs are active, they go out there to inquire what problems they can solve. Great PMs, build hypothesis and then get them validated in the market. All of them get things done but way is not the same.
 
-Hence, I've now realized these to be the more essential attributes to becoming a great PM -- Ownership and Insights.
+Beyond the cult of "getting things done", I've now realized these to be the more essential attributes to becoming a *great* PM -- Ownership and Insights.
 
 A product becomes successful when it solves its intended customer's problems - known and unknown. Known problems are easy to solve. The customer requests a "feature" and an "operator" "gets it done" post discussing it with the engineers. The product moves a step ahead. If happy more customers use it; if lucky they pay for it too.
 
