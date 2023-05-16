@@ -3,7 +3,7 @@ layout: posts
 title:  "The Edelweiss Manifesto :cherry_blossom:"
 date:   2023-03-25 03:12:08 +0530
 categories: blog
-tag: 
+tag: philosophy
 ---
 ## what is? why, and why not?!
 ---
