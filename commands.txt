@@ -1,0 +1,8 @@
+to see drafts:
+
+bundle exec jekyll server --watch --drafts
+
+
+to see prod posts:
+
+$ bundle exec jekyll serve

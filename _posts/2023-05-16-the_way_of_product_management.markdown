@@ -1,11 +1,11 @@
 ---
 layout: posts
-title:  "Better Product Management"
+title:  "The Way of Product Management"
 date:  2023-05-16 01:18:08 +0530
 categories: blog
-tag: philosophy, product
+tag: philosophy, product, product-management
 ---
-## How to become great at this abstract job
+## How to become great at the abstract job that is product management.
 ---
 Product management is the job of managing and solving the **abstract**. There are a lot of anecdotes out there to simplify the definition of the job but this is the most recent and interesting one that I came across. As it is often the way of things, very often the subject becomes the critique of its definition. This happened to me a few weeks ago wherein, the meaning of PM-ship became an abstract question for me. 
 
