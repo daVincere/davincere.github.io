@@ -61,7 +61,7 @@ defaults:
 author:
   name: "Hardeep Singh Mehra"
   avatar: "/assets/images/hasime.jpg"
-  bio: "_wannabe_ **entrepreneur** who acts as a product guy" # Note: Markdown is allowed
+  bio: "creator & builder of digital products" # Note: Markdown is allowed
   location: "Bangalore, India"
   links:
     - label: "Twitter"
