@@ -1,9 +1,9 @@
 ---
 layout: posts
-title:  "Finding Water for the Rising Elephant of Asia"
+title:  "Indiaaa, India!!"
 date:   2023-05-07 14:28:08 +0530
 categories: blog
-tag: economics, india
+tag: economics, india, future, predictions, hopes, business, business-opportunities
 ---
 ## India is going be the next big superpower -- how are you dealing your cards.
 ---
@@ -60,3 +60,14 @@ The current govt. for all it's flaws has got it right with few of their policies
 All in all, we are going to be big. We are 20 years behind China and our population is going to be young, in the range of 20-30 until 2070. If there has ever been a place to build wealth, it's here.
 
 But, for the country to be great, it needs to increase it's exports. In order to increase our exports, we need to become a manufacturing mammoth rather than a agriculture based economy. Even today, in 2023, 54% of the total workforce in India are directly linked with agriculture. And, manufacturing only supports percent of our economy. 
+
+
+
+
+Imagine a mountain, on top of which rests a place that could give you in excess of whatever it is you desire. The only caveat being that there are a million steps between you and that place and it'll take you a year long pilgrimage to the top. Thinking about this, for a goal-oriented person, I'm reminded of ["The Shoe Dog"](https://en.wikipedia.org/wiki/Shoe_Dog)-- "The cowards never started, and the weak died on the way -- that leaves us." 
+
+But, let's assume you decide on scaling it still, you are motivated enough and have your path clear in front of you. 
+
+The strong-willed will persist still (and may even climb another million steps), and those with fire in their bellies and an insatiable urge to prove themselves would endure the hardships but those are the selected few. Most people do not feel this about climbing steps, and there exists a simpler truth for them -- like the act of walking. [ this needs to be better]
+
+This is still a finite game scenario. Life is never a finite game. We all live finite lives but with infinite possibilities. 
