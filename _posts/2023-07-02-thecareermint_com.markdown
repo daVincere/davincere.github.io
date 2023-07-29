@@ -27,7 +27,7 @@ For every great economy to grow, at the pace that we are poised, you need a few 
 
 You can't do anything about the first 2. You can only do something around #3.
 
-For engineering colleges, we have IITs -- which do not come to any top 100 list anywhere. For healthcare education, we have AIIMS -- where no new things haven't happened for ages. The list goes on. The point is that we have no core research in our country. We have not invented anything and we only have our past to be boastful and proud of. (Nothing wrong in being proud of your past, but societies look at their pasts often because they don't see any horizon). If I were to build something, with all my intellect, I'd work here. Some people call this -- foundational model. But, I am not well-versed in any of this and so I can't help here.
+For engineering colleges, we have IITs -- which do not come to any top 100 list anywhere. For healthcare education, we have AIIMS -- where no new things haven't happened for ages. The list goes on. The point is that we have no core research in our country. We have not invented anything and we only have our past to be boastful and proud of. (Nothing wrong in being proud of your past, but societies look at their pasts often do it because they don't have anything to look forward to, across the horizon). If I were to build something, with all my intellect, I'd work here. Some people call this -- foundational model. But, I am not well-versed in any of this and so I can't help here.
 
 The second class is a good set of the working class. Training for this working class is a joke. Only 34% of corporates in India provide internship programs. It's an unoptimised industry that has very recently started gaining traction. But, it's still far away from bearing any fruit. 
 
@@ -41,11 +41,13 @@ We wish to solve this.
 
 Through a mentorship space, fellowships, apprenticeship programmes and a set of other minute innovations we wish to provide a platform for our college kids to get the best jobs and opportunities out there and then excel at them.
 
-We are working on a pipe dream here. There are a lot of uncertainties. Some of which are at my end too. But, sitting down, knowing that this problem exists and not doing anything about is not acceptable. If we don't solve this, someone else will -- and we welcome it. We just don't want the next big thing to come out of any place other than India. [ Not saying that we don't wish to operate in any other country or that the ceil of aspirations and goals should be tied to the growth of a specific country after all our allegiance is to intelligent life itself -- humans *and* non-humans ]
+We are working on a pipe dream here. There are a lot of uncertainties. Some of which are at my end too. But, sitting down, knowing that this problem exists and not doing anything about is unacceptable. If we don't solve this, someone else will -- and we welcome it. We just don't want the next big thing to come out of any place other than India. [ Not saying that we don't wish to operate in any other country or that the ceil of aspirations and goals should be tied to the growth of a specific country after all our allegiance is to intelligent life itself -- humans *and* non-humans ]
 
 We are open to insights, suggestions, partnerships and problem statements. The mission is more important than the self -- write to us, and we'll go through it without any ego. [You can reach me via any of my socials]
 
-In the end, for reading thus far, I'll leave you with this kinda speechy but kinda great quote that I think is cool and often resolves the "why" for me: 
+I'm very excited. Hopeful *and* fearful of the future. If nothing, I'll be fun. If you know me, please hold me to this post? If you meet me, ask me about this. That's the beauty of building in public. 
+
+Finally, for reading thus far, I'll leave you with this kinda speechy but kinda great quote that I think is cool and often resolves the "why" for me: 
 
 > Our deepest fear is not that we are inadequate.  
 Our deepest fear is that we are powerful beyond measure.  
