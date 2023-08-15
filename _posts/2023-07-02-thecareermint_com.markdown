@@ -7,6 +7,7 @@ tag: product, business, idea, announcement
 ---
 A note on why thecareermint.com exists
 ---
+
 On the back of every NCERT book, there used to be a talisman on decision-making by Mahatma Gandhi. It goes something like this:
 > ..Whenever you are in doubt, or when the self becomes too much with you, apply the following test. Recall the face of the poorest and the weakest man [woman] whom you may have seen, and ask yourself, if the step you contemplate is going to be of any use to him [her]. Will he [she] gain anything by it? Will it restore him [her] to control over his [her] own life and destiny? In other words, will it lead to swaraj [freedom] for the hungry and spiritually starving millions?
 Then you will find your doubts and your self melt away.  

@@ -7,6 +7,7 @@ tag: philosophy, life-lessons
 ---
 ## Playing infinite game in a finite world.
 ---
+
 > NOTE TO THE READER: This article is not an attempt to change you or refute your way of life. The goal of this article is to share what wisdom I've found in the pursuit of the same ol' success and habit formation in my own little lived life. I remain a stern believer that people should decide for themselves the philosophy of life that works for them -- no truth is definite, and no version of god supreme. 
 
 I first started reading books in 2009. It started as a way to improve my vocabulary in school to get familiar with new ideas and a grander world in college (Rich Dad Poor Dad, Zero to One, The Lean Startup, Lee Iacocca etc). I used to read a lot and I used to read them to completion -- even at the cost of great boredom. This affair with books came to a halt around 2015, my second year of college when I started working on my first startup -- Dystanc (shout-out to Bhagat and Jasmine, my lovely co-founders from that time). Because I was always working towards a goal -- making a damn website live, or learning that framework, or launching this website; I had no time to read books and I have never been able to take up any new hobby since then.

@@ -7,6 +7,7 @@ tag: philosophy
 ---
 ## what is? why, and why not?!
 ---
+
 I was first introduced to the word **edelweiss** in a Youtube video from a channel called "History Buffs''. History Buffs' creator Nik Hodges critiques historical movies for their accuracy and fiction -- in the process presenting a commentary on the history and culture of a movie. This [video was a review of the HBO mini-series The Band of Brother](https://www.youtube.com/watch?v=uxv3s7xTYHU) and it made me watch one of the most beautifully created show of our times, but that's for another time.
 
 [Edelweiss](https://en.wikipedia.org/wiki/Leontopodium_nivale) is a flower that grows high up in the Alps. Due to its growth in somewhat arid and barren parts of the Alps, it is romanticized to be a symbol of rugged strength, beauty and bravery. Well before the Second World War, soldiers from the German army would climb the Alps in search of this flower and would wear it as a sign of honor -- to have made the tiring journey up the hill to get the same.

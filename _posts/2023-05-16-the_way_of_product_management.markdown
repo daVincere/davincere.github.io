@@ -7,6 +7,7 @@ tag: philosophy, product, product-management
 ---
 ## How to become great at the abstract job that is product management.
 ---
+
 Product management is the job of managing and solving the **abstract**. There are a lot of beautiful anecdotes out there to simplify the definition but this is the most recent and interesting one that I've come across. It's often the way of things, in time the subject becomes the critique of its definition. This happened to me a few weeks ago wherein, the meaning of PM-ship became an abstract question for me. 
 
 What does it mean to be a *great* PM? How could I become one, I asked myself. Everything worth doing is worth doing well, I thought. Every profession ought to be a pursuit of excellence, I read in the book: "The Book of Five Rings".
