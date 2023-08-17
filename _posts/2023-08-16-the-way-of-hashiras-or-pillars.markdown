@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "The Concept of Hashiras (pillars)"
+title:  "The Way of Hashiras (pillars)"
 date:  2023-08-16 04:23:08 +0530
 categories: blog
 tag: philosophy
