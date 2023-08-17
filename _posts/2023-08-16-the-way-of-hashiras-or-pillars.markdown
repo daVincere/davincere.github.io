@@ -8,27 +8,27 @@ tag: philosophy
 Why you should do everything, everyday.
 ---
 
-It was a four-day weekend which was spent working on a B2C platform (mentioned in this [post](https://iamhasime.com/blog/2023/07/01/thecareermint_com.html)). Towards the end of the last night of this four-day weekend, India's Independence Day, all efforts turned moot and a new B2B pivot emerged. To discuss the validity of this new pivot I went on a call with a  friend, one of the best bullshit filters that I am grateful for existing. What will happen to this B2B idea, only time will tell.
+It was a four-day weekend which was spent working on a B2C platform (mentioned in this [post](https://iamhasime.com/blog/2023/07/01/thecareermint-com.html)). Towards the end of the last night of this four-day weekend, India's Independence Day, all efforts turned moot and a new B2B pivot emerged. To discuss the validity of this new pivot I went on a call with a  friend, one of the best bullshit filters that I am grateful for existing. What will happen to this B2B idea, only time will tell.
 
 Anyway, towards the end of the call, I happened to share with her the concept of **_hashiras_**, something that I've already shared with a couple of folks and have now extrapolated enough times to write a blog on. (People should do that often, saves them a bit of embarrassment.)
 
 To start, yes, I've stolen the word -- "Hashira" from the beautifully animated, a lil rushed but overall great anime : [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba). If you haven't seen it, you definitely should. To those unaware, the word "Hashira" means a pillar.
 
-With that off the way, here's what the Hashira concept is a metaphor for -- **We all live multiple lives. Our mental stability, happiness, and contentment are mostly derived from the stability of these lives.**
+With that off the way, here's what the Hashira concept is a metaphor for -- **We all live multiple lives. Our mental stability, happiness, and contentment are mostly derived from the stability of these lives.** 
 
 Here's how you can think of it: imagine a wooden plane raised on top of a few wooden pillars. The plane is a metaphor for the stability of our lives and each pillar, a metaphor for the many unique lives that we have going on ourselves. For some, it is their work-life, for others a relationship, for others their passion projects and so on. Whatever forms of pillars there are, the stability of the wooden plane is utterly dependent on the strength of the pillars that it's standing on.
 
-In the world of hustle culture, one mistakes by focusing and relying on only 1 aspect of their life. The mirage of focus often blinds oneself to the multiverse of possibilities out there. Don't get me wrong, *focus* is needed for some greater purpose but the total no. of people drawing meaning out of that focus are the exceptions and not the rule. For a normal Joe, like me, a unilateral life is a myth, an illusion that we convince ourselves into living. People's work becomes their identity. Their relationship becomes a marker in their friendship circle. The cause they support becomes their cause of being. As long as it keeps people busy, they are happy living that 1 life.
+In the world of hustle culture, one mistakes by focusing and relying on only 1 of these lives. The mirage of focus often blinds oneself to the multiverse of possibilities out there. Don't get me wrong, *focus* is needed for some greater purpose but the total no. of people drawing meaning out of that focus are the exceptions and not the rule. For a normal Joe, like me, a unilateral life is a myth, an illusion that we convince ourselves into living. People's work becomes their identity. Their relationship becomes a marker in their friendship circle. The cause they support becomes their cause of being. As long as it keeps people busy, they are happy living that 1 life.
 
-That's until these pillars break -- people either get laid-off or are not appreciated enough at work, or are burnt out and down goes their entire stability plane. When the source of an identity is lost, you find it elsewhere. The collapse of the wooden plane, and the absence of a new pillar to take care of it -- instantaneously -- results in the fall into the abyss of anxiety, doubt, and imposter syndrome that simmers for some time.
+That's until these pillars break -- people either get laid-off or are not appreciated enough at work, or are burnt out and down goes their entire stability plane. When the source of an identity is lost, one looks for it elsewhere. The collapse of the wooden plane, and the absence of a new pillar to take care of it -- instantaneously -- results in the fall into the abyss of anxiety, doubt, imposter syndrome, and existential crisis which simmers for some time.
 
-The antidote is simple. 1 pillar structure is seldom strong. Build more pillars. Ideally, 5+ pillars to hold your peace. So that if even one of them breaks or shows weakness or needs maintenance, the others are there to safeguard against the fall. 
+The antidote is simple. 1 pillar structures are seldom strong. Build more pillars. Ideally, 5+ pillars to hold your peace. So that if even one of them breaks or shows weakness or needs maintenance, the others are there to safeguard against the fall. 
 
-I've in the past made similar mistakes. For the majority of the time, I was focused on work. I worked till exhaustion, from 8 AM to 1 AM. So much so that Saturdays were blocked for the therapy sessions with [The Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) playlist (Depression Cherry is :ok_hand:).
+I've in the past made similar mistakes. For the majority of the time, I was a workaholic. I worked till exhaustion, from 8 AM to 1 AM. So much so that Saturdays were blocked lying on the bed, for therapy sessions with [The Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) playlist (Depression Cherry is :ok_hand:).
 
 Exhausted, I decided to focus more on health -- and only health. Work suffered. Back to the Beach House playlist. And then, something else came along and so went the cycle. 
 
-That was until it occurred to me how the brain works. How, dopamine, oxytocin, serotonin and endorphins -- responsible for a good mental state are triggered by unique triggers that are independent of the other. 
+That was until it occurred to me how our brain works. How, dopamine, oxytocin, serotonin and endorphins -- chemicals responsible for a good mental state are triggered by unique triggers that are independent of the other. 
 
 Nowadays, my pillars include:
 - my book-reading life 
