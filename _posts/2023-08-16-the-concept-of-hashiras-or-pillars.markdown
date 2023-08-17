@@ -8,36 +8,46 @@ tag: philosophy
 Why you should do everything, everyday.
 ---
 
-It was a four-day weekend which was spent working on a B2C platform (mentioned in this [post](https://iamhasime.com/blog/2023/07/01/thecareermint_com.html)) towards the end of the last night, India's Independence Day, turned into a B2B one.  To discuss the validity of this new pivot I went on a call with a dear friend (Hello Jasmine!), one of the best bullshit filters that I have in my life. What will happen to this B2B idea, time will tell.
+It was a four-day weekend which was spent working on a B2C platform (mentioned in this [post](https://iamhasime.com/blog/2023/07/01/thecareermint_com.html)). Towards the end of the last night of this four-day weekend, India's Independence Day, all efforts turned moot and a new B2B pivot emerged. To discuss the validity of this new pivot I went on a call with a  friend, one of the best bullshit filters that I am grateful for existing. What will happen to this B2B idea, only time will tell.
 
-Anyway, towards the end of the call, I happened to share with her the concept of **_hashiras_**, something that I've already shared with a couple of folks and have now extrapolated enough times to write a blog on. People should do that often, saves them a bit of embarrassment.
+Anyway, towards the end of the call, I happened to share with her the concept of **_hashiras_**, something that I've already shared with a couple of folks and have now extrapolated enough times to write a blog on. (People should do that often, saves them a bit of embarrassment.)
 
-To start, yes, I've stolen the word -- "Hashira" from the beautifully animated, a lil rushed but overall great anime : [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba). If you haven't seen it, you definitely should.
+To start, yes, I've stolen the word -- "Hashira" from the beautifully animated, a lil rushed but overall great anime : [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba). If you haven't seen it, you definitely should. To those unaware, the word "Hashira" means a pillar.
 
-With that off the way, here's what the concept of Hashira is -- **We all live multiple lives. Our mental stability, happiness, and contentment are mostly derived from the stability of these lives.**
+With that off the way, here's what the Hashira concept is a metaphor for -- **We all live multiple lives. Our mental stability, happiness, and contentment are mostly derived from the stability of these lives.**
 
-Here's how you can think of it: imagine a wooden plane standing on top of wooden pillars. The plane represents the stability of our lives and each pillar represents a unique life that we have going on about ourselves. For some, it is work-life, for others a relationship and so on. The stability of the plane is completely dependent on the stability of the pillars it's standing on.
+Here's how you can think of it: imagine a wooden plane raised on top of a few wooden pillars. The plane is a metaphor for the stability of our lives and each pillar, a metaphor for the many unique lives that we have going on ourselves. For some, it is their work-life, for others a relationship, for others their passion projects and so on. Whatever forms of pillars there are, the stability of the wooden plane is utterly dependent on the strength of the pillars that it's standing on.
 
-Most people mistake focusing on only 1 aspect of their lives -- only work, only pleasure, only XYZ thing. It takes up the shape of "hustle" or "true love" but it often is the only thing holding the stability of a person. But, often these pillars break, people are either laid-off, or not appreciated enough, or burn-out and down goes the entire stability-plane. The collapse of the old plane, and the absence of a new pillar to take care of it -- instantaneously -- results in the sadness phase of ours.
+In the world of hustle culture, one mistakes by focusing and relying on only 1 aspect of their life. The mirage of focus often blinds oneself to the multiverse of possibilities out there. Don't get me wrong, *focus* is needed for some greater purpose but the total no. of people drawing meaning out of that focus are the exceptions and not the rule. For a normal Joe, like me, a unilateral life is a myth, an illusion that we convince ourselves into living. People's work becomes their identity. Their relationship becomes a marker in their friendship circle. The cause they support becomes their cause of being. As long as it keeps people busy, they are happy living that 1 life.
 
-The alternative is to have more than 1, ideally, 5+ pillars to hold your mental sanity. If even one of them breaks or shows weakness, the others are there to safeguard against the fall. 
+That's until these pillars break -- people either get laid-off or are not appreciated enough at work, or are burnt out and down goes their entire stability plane. When the source of an identity is lost, you find it elsewhere. The collapse of the wooden plane, and the absence of a new pillar to take care of it -- instantaneously -- results in the fall into the abyss of anxiety, doubt, and imposter syndrome that simmers for some time.
 
-For me, these lives are:  
-- my reading life 
+The antidote is simple. 1 pillar structure is seldom strong. Build more pillars. Ideally, 5+ pillars to hold your peace. So that if even one of them breaks or shows weakness or needs maintenance, the others are there to safeguard against the fall. 
+
+I've in the past made similar mistakes. For the majority of the time, I was focused on work. I worked till exhaustion, from 8 AM to 1 AM. So much so that Saturdays were blocked for the therapy sessions with [The Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) playlist (Depression Cherry is :ok_hand:).
+
+Exhausted, I decided to focus more on health -- and only health. Work suffered. Back to the Beach House playlist. And then, something else came along and so went the cycle. 
+
+That was until it occurred to me how the brain works. How, dopamine, oxytocin, serotonin and endorphins -- responsible for a good mental state are triggered by unique triggers that are independent of the other. 
+
+Nowadays, my pillars include:
+- my book-reading life 
 - my work life 
-- my being a good flatmate life
-- my relationship -- with friends and family
+- my "being a good flatmate" life
+- my relationships life -- with friends and family
 - my side-hustle life
 - my gym life
-- my upskilling life
+- my upskilling life .. and so on.
 
-But once you have found these lives, you need to live them too. All of them, all at once. Growth in all is paramount. To allow for this, you need a structured timetable.
+I'm in a completely different mental state nowadays. It's a mindful phase that I wish upon a lot more people. 
 
-What's worked for me is dedicating each of these their timeslots which do not intermingle with each other. After waking up every day, I read a book for the first 1 hour. Post that, a gym session for an hour, and after that a work-life and so on. Nothing is non-important. Everything creates and elevates a certain part of my life.
+Your pillars could look different, and it's completely okay. What is important is that you need to live them all. All of them, all at once. Growth in all is paramount. 
 
-All of these parallel lives complement each other and have long-term effects. All of these are infinite games in a finite structure (a day). The idea is to live an intentioned life. The idea is to have a framework where nothing of value, worth the investment is left to the future to take care of. 
+All of these parallel lives complement each other and have long-term effects. All of these are infinite games in a finite structure (a day). The idea is to live an intentional life. The idea is to have a framework where nothing of value, worth the investment is left to the future to take care of. 
 
 Naval says -- "All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest." And nothing grows better than daily compounding.
+
+
 
 
 
