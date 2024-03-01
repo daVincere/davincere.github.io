@@ -8,11 +8,7 @@ tag: philosophy
 Why you should do everything, everyday.
 ---
 
-It was a four-day weekend which was spent working on a B2C platform (mentioned in this [post](https://iamhasime.com/blog/2023/07/01/thecareermint-com.html)). Towards the end of the last night of this four-day weekend, India's Independence Day, all efforts turned moot and a new B2B pivot emerged. To discuss the validity of this new pivot I went on a call with a  friend, one of the best bullshit filters that I am grateful for existing. What will happen to this B2B idea, only time will tell.
-
-Anyway, towards the end of the call, I happened to share with her the concept of **_hashiras_**, something that I've already shared with a couple of folks and have now extrapolated enough times to write a blog on. (People should do that often, saves them a bit of embarrassment.)
-
-To start, yes, I've stolen the word -- "Hashira" from the beautifully animated, a lil rushed but overall great anime : [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba). If you haven't seen it, you definitely should. To those unaware, the word "Hashira" means a pillar.
+Yes, I've stolen the word -- "Hashira" from the beautifully animated, a lil rushed but overall great anime : [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba). If you haven't seen it, you definitely should. To those unaware, the word "Hashira" means a pillar.
 
 With that off the way, here's what the Hashira concept is a metaphor for -- **We all live multiple lives. Our mental stability, happiness, and contentment are mostly derived from the stability of these lives.** 
 

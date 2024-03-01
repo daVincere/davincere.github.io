@@ -1,0 +1,66 @@
+---
+layout: posts
+title:  "Lessons from Feb 2024"
+date:  2024-02-29 03:03:08 +0530
+categories: blog
+tag: retro, monthly
+---
+tl;dr of the lessons from this month
+## A. From the Books I'm Reading
+[This is Marketing by Seth Godlin](https://www.goodreads.com/book/show/40549476-this-is-marketing)  
+1. On Marketing
+- "People don't want to buy a quarter-inch drill bit. They want a quarter-inch hole"
+- Decision matrix: Desire for gain or avoidance of loss. 
+- Perception drives reality. 
+
+2. On user behaviour:  
+- People are different. Noone is irrational. 
+- Some people are looking for a feeling rather than the logical truth _and that's okay._ 
+- "Everything that we purchase -- every investment, every trinket, every experience -- is a bargain. That's why we bought it. Because it was worth more than what we paid for it."  
+3. "Everything gets easier when you walk away from the hubris of everyone. Your work is not for everyone. It's only for those who signed up for the journey."
+4. "The relentless pursuit of mass will make you boring, because mass means average, it means the centre of the curve, it requires you to offend no one and satisfy everyone."
+5. "When in doubt, assume that people will act according to their current irrational urges, ignoring information that runs counter to their beliefs, trading long-term for short-term benefits and most of all, being influenced by the culture they identify with."
+
+
+## B. From the Internet
+
+1. Sonder  
+The moment when you realise that everyone around you has an internal life as rich and as conflicted as you.  
+This feeling leads to greater empathy and kindness about other people.
+
+2. Knowing Thyself  
+The discussion of _marriage_ has started in my friends group and 1 direction that I keep leaning on is the act of knowing oneself and reconciling with one's goods and bads.  
+We are a generation whitewashed by the latest innovation in attention grabbing mediums to want the best. Forgetting often the difference between artificially-created wants, and internally perceived and accepted needs.  
+You will always be confused, lost and forever in the pursuit of _that_ feeling until you understand yourself well.   
+One hack that I've recently found to have worked is writing an essay about yourself -- going into deeper details on your history, values, likes, dislikes, wants, needs, aspirations and goals in life. 
+
+3. [Political Identity](https://www.politicalcompass.org/)  
+Our lives are run by politics. Of the states', ideologies, people, ideas and much more. The way you think about 1 aspect of life, your thoughts on other aspects will not fall far away from it. To know yourself more, this test would give you a better idea.  
+Note: There are no right and wrongs here. This is just a mirror to your psyche.  
+[Here's mine if you're curious.](https://www.politicalcompass.org/pdfcertificate?pname=hasime&ec=-1.88&soc=-1.28)
+
+
+4. [Personality Test](https://www.16personalities.com/)  
+I gave the 16Personalites test again to gauge how I perceive myself to be. This is important because your perception of yourself leads to your realities. It literally is how you will make certain decisions. Anyway, it's one of the best introspective tools to understand yourself better.  
+Note: There are no right or wrong judgements here. It's also important to understand that these can change with time. Do not take this test again for the next 3 months to avoid confusion.  
+I'm a [Commander Personality Type](https://www.16personalities.com/entj-personality) if you're curious. 
+
+5. [Circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm)
+
+6. [ONDC](https://tigerfeathers.substack.com/p/ondc-remixing-commerce?utm_source=Antler+India&utm_campaign=515b89922f-EMAIL_CAMPAIGN_2021_11_22_07_12_COPY_01&utm_medium=email&utm_term=0_17249004c1-515b89922f-437499216&mc_cid=515b89922f)
+
+7. [On Marriage and having kids after 30](https://www.chop.edu/conditions-diseases/pregnancy-over-age-30)  
+
+8. [Prometheus](https://en.wikipedia.org/wiki/Prometheus)  
+According to Greek Mythology, Prometheus was a [Titan](https://en.wikipedia.org/wiki/Titans)(older Gods, banished to the underworld) who stole fire from the Olympian Gods and gave it to humanity hence ushering the age of technology and human progression to building civilizations.  
+For his crime, he was bound to a rock, with an eagle eating away his liver daily. This was thought of as a form of eternal torment as his liver grew back every single day. 
+
+9. Esoteric Knowledge  
+Knowledge intended for or likely to be understood by only a small number of people with a specialised interest.  Today's businesses are built on esoteric & copious insights that you only get once you get deeper into one field.  
+
+There are a few other topics that I got into thinking all thanks to the illustrious set of friends that I have and I wish to do dedicated articles on all of them. They are:
+- Rise of Individualism (v/s Collectivism) is a Broken Capitalist Society Phenomenon 
+- AI and its impact on Medicine
+- Why Now.
+
+Auf wiedersehen!
