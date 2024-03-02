@@ -1,0 +1,808 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Why TheCareerMint.com - iamhasime</title>
+<meta name="description" content="A note on why thecareermint.com exists">
+
+
+  <meta name="author" content="Hardeep Singh Mehra">
+  
+  <meta property="article:author" content="Hardeep Singh Mehra">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="iamhasime">
+<meta property="og:title" content="Why TheCareerMint.com">
+<meta property="og:url" content="http://localhost:4000/blog/2023/07/02/thecareermint-com.html">
+
+
+  <meta property="og:description" content="A note on why thecareermint.com exists">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2023-07-02T02:57:08+05:30">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/blog/2023/07/02/thecareermint-com.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+<link href="/feed.xml"
+  type="application/atom+xml" rel="alternate" title="iamhasime Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- LATEX -->
+<!-- <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script> -->
+
+<script>
+  window.MathJax = {
+    jax: ["input/TeX", "output/CommonHTML"],
+    extensions: ["tex2jax.js", "asciimath2jax.js", "mml2jax.js", "MathMenu.js", "MathZoom.js"],
+    TeX: {
+      extensions: ["AMSmath.js", "AMSsymbols.js", "autoload-all.js"]
+    },
+    displayIndent: 0,
+    tex2jax: {
+      inlineMath: [
+        ['$', '$'],
+        ["\\(", "\\)"]
+      ],
+      processEscapes: true
+    },
+    showMathMenu: false,
+    showProcessingMessages: false,
+    messageStyle: "none",
+    menuSettings: { zoom: "Click" },
+    AuthorInit: function () {
+      MathJax.Hub.Register.StartupHook("End", function () {
+        var timeout = false, // holder for timeout id
+          delay = 250; // delay after event is "complete" to run callback
+        var shrinkMath = function () {
+          var dispFormulas = document.getElementsByClassName("formula");
+          if (dispFormulas) {
+            // caculate relative size of indentation
+            var contentTest = document.getElementsByTagName("body")[0];
+            var nodesWidth = contentTest.offsetWidth;
+            // if you have indentation
+            var mathIndent = MathJax.Hub.config.displayIndent; //assuming px's
+            // var mathIndentValue = mathIndent.substring(0, mathIndent.length - 2);
+            for (var i = 0; i < dispFormulas.length; i++) {
+              var dispFormula = dispFormulas[i];
+              var wrapper = dispFormula.getElementsByClassName("MathJax_Preview")[0].nextSibling;
+              var child = wrapper.firstChild;
+              wrapper.style.transformOrigin = "top-left"; //or top-left if you left-align your equations
+              var oldScale = child.style.transform;
+              var newValue = Math.min(0.80 * dispFormula.offsetWidth / child.offsetWidth, 1.0).toFixed(2);
+              var newScale = "scale(" + newValue + ")";
+              if (!(newScale === oldScale)) {
+                wrapper.style.transform = newScale;
+                // wrapper.style["margin-left"] = Math.pow(newValue, 4) * mathIndentValue + "px";
+                var wrapperStyle = window.getComputedStyle(wrapper);
+                var wrapperHeight = parseFloat(wrapperStyle.height);
+                wrapper.style.height = "" + (wrapperHeight * newValue) + "px";
+                if (newValue === "1.00") {
+                  wrapper.style.cursor = "";
+                  wrapper.style.height = "";
+                }
+                else {
+                  wrapper.style.cursor = "zoom-in";
+                }
+              }
+
+            }
+          }
+        };
+        shrinkMath();
+        window.addEventListener('resize', function () {
+          clearTimeout(timeout);
+          timeout = setTimeout(shrinkMath, delay);
+        });
+      });
+    }
+  };
+
+  (function (d, script) {
+    script = d.createElement('script');
+    script.type = 'text/javascript';
+    script.async = true;
+    script.onload = function () {
+      // remote script has loaded
+    };
+    script.src = 'https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+    d.getElementsByTagName('head')[0].appendChild(script);
+  }(document));
+</script>
+
+<!-- For all browsers | Updating the theme logic  -->
+<link rel="stylesheet" href="/assets/css/main.css" id="theme_source">
+
+
+<link rel="stylesheet alternate" href="/assets/css/theme2.css" id="theme_source_2">
+<script>
+  let theme = sessionStorage.getItem('theme');
+  if (theme === "dark") {
+    sessionStorage.setItem('theme', 'dark');
+    node1 = document.getElementById('theme_source');
+    node2 = document.getElementById('theme_source_2');
+    node1.setAttribute('rel', 'stylesheet alternate');
+    node2.setAttribute('rel', 'stylesheet');
+  }
+  else {
+    sessionStorage.setItem('theme', 'light');
+  }
+</script>
+
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style"
+  onload="this.onload=null;this.rel='stylesheet'">
+<noscript>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+</noscript>
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--posts">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          iamhasime
+          
+        </a>
+        <ul class="visible-links"></ul>
+        <!-- Code to switch between two skin modes  -->
+        
+          <i class="fas fa-fw fa-adjust" aria-hidden="true" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;"></i>
+        
+        
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="/assets/images/hasime.jpg" alt="Hardeep Singh Mehra" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Hardeep Singh Mehra</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>i build stuff online</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Bangalore, India</span>
+        </li>
+      
+
+      
+        
+          
+            <li><a href="https://twitter.com/iamhasime" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+          
+            <li><a href="https://linkedin.com/in/iamhasime" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+          
+        
+          
+            <li><a href="https://instagram.com/iamhasime" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <div class="archive">
+    
+      <h1 id="page-title" class="page__title">Why TheCareerMint.com</h1>
+    
+    <h2 id="a-note-on-why-thecareermintcom-exists">A note on why thecareermint.com exists</h2>
+
+<p>On the back of every NCERT book, there used to be a talisman on decision-making by Mahatma Gandhi. It goes something like this:</p>
+<blockquote>
+  <p>..Whenever you are in doubt, or when the self becomes too much with you, apply the following test. Recall the face of the poorest and the weakest man [woman] whom you may have seen, and ask yourself, if the step you contemplate is going to be of any use to him [her]. Will he [she] gain anything by it? Will it restore him [her] to control over his [her] own life and destiny? In other words, will it lead to swaraj [freedom] for the hungry and spiritually starving millions?
+Then you will find your doubts and your self melt away.<br>
+<a href="https://www.mkgandhi.org/gquots1.htm">Mahatma Gandhi</a></p>
+</blockquote>
+
+<p>For me, these poor would always be <a href="https://www.youtube.com/watch?v=uFz5twF2PNg">The Patriwala from Ayodhya</a> or <a href="https://www.youtube.com/watch?v=ETL-hcD7VNE">that Street Vendor from Azadpur Mandi</a> – with such realities around you, it gets hard to play blind and work on any product that doesn’t directly (or indirectly) work towards their upliftment. <em>No hate or virtue signalling here, people should do what makes them happy and content</em></p>
+
+<p>India is currently the 5th largest economy at USD 2.651 trillion in GDP. We are aiming at a USD 5 trillion economy by 2025 and are poised to be the 3rd largest economy by 2075 – big leagues.</p>
+
+<p>Outside of it, India is the biggest and youngest open market in the world. A lot of problems still exist – someone will fulfil all those needs, in all aspects of life and make a killing. You will see more companies coming in, more FDI (Foreign Direct Investment) and more companies growing up. The dream of our freedom fighters – to build everything from a needle to a rocket in our country is finally going to be true. We are definitely making some strides in that direction.</p>
+
+<p>Now, with such prospects you’ve got to wonder – what would fuel it?!</p>
+
+<p>For every great economy to grow, at the pace that we are poised, you need a few things right:</p>
+<ul>
+  <li>a rule of law, that everyone respects</li>
+  <li>a setup of governance that allows every voice heard ( <em>a democracy</em> ), and</li>
+  <li>most importantly, a working class that knows how to build stuff.</li>
+</ul>
+
+<p>You can’t do anything about the first 2. You can only do something around #3.</p>
+
+<p>To have a population that knows how to build stuff, you need broadly four core sets of classes of people:</p>
+
+<p>The first class is the STEM researchers and inventors. Sadly, we are not a society that cultivates researchers and inventors (We do celebrate innovators though). For engineering colleges, we have IITs – which do not come to any top 100 list anywhere. For healthcare education, we have AIIMS – where no new things haven’t happened for ages. The list goes on. The point is that we have no core research in our country. We have not invented anything and we only have our past to be boastful and proud of. (Nothing wrong in being proud of your past, but societies look at their pasts often do it because they don’t have anything to look forward to, across the horizon). If I were to build something, with all my intellect, I’d work here. Some people call this – foundational model. But, I am not well-versed in any of this and so I can’t help here.</p>
+
+<p>The second class is a good set of the highly-skilled, educated working class. Training for this working class is a joke. Only 34% of corporates in India provide internship programs. It’s an unoptimised industry that has very recently started gaining traction. But, it’s still far away from bearing any fruit.</p>
+
+<p>The third class is a set of artesian — people who come out of vocational studies – your masons, your plumbers, electricians, carpenters and all. I’m not going to bore you with the details (I don’t have them handy either) but my good ol’ product thinking and guesstimate tell me that this is an entirely unorganised industry where people get trained at the job, often through referral – i.e. the gates are closed for any Joe who just wants to pick it up as a career choice.</p>
+
+<p>The fourth class, the financiers – people with money, thankfully we are good with them. We have a robust banking sector and have more than enough money circulating in our economy. Although tax collection is still very low ( only 6.25% of the country pays taxes ) but this will only get become better with time.</p>
+
+<p>At CareerMint, we are thinking of solving the issues of the second class and have a vision to one day solve for the third and the first class.</p>
+
+<p>We need a better way of helping the human resource of our country reach the maxima of their potential. In corporates and work environments, across industries, a hidden ceiling exists that people can’t seem to crossover. Be it a nurse wanting to progress into a higher role or an IT guy at a services company trying for better pay. It’s not that they are not skilled or don’t have the skill set – they are just limited by a network and knowledge that lets them punch far above their weight.</p>
+
+<p>We wish to solve this.</p>
+
+<p>Through a mentorship space, fellowships, apprenticeship programmes and a set of other minute innovations we wish to provide a platform for our college kids to get the best jobs and opportunities out there and then excel at them.</p>
+
+<p>We are working on a pipe dream here. There are a lot of uncertainties. Some of which are at my end too. But, sitting down, knowing that this problem exists and not doing anything about is unacceptable. If we don’t solve this, someone else will – and we welcome it. We just don’t want the next big thing to come out of any place other than India. [ Not saying that we don’t wish to operate in any other country or that the ceil of aspirations and goals should be tied to the growth of a specific country after all our allegiance is to intelligent life itself – humans <em>and</em> non-humans ]</p>
+
+<p>We are open to insights, suggestions, partnerships and problem statements. The mission is more important than the self – write to us, and we’ll go through it without any ego. [You can reach me via any of my socials]</p>
+
+<p>I’m very excited. Hopeful <em>and</em> fearful of the future. If nothing, I’ll be fun. If you know me, please hold me to this post? If you meet me, ask me about this. That’s the beauty of building in public.</p>
+
+<p>Finally, for reading thus far, I’ll leave you with this kinda speechy but kinda great quote that I think is cool and often resolves the “why” for me:</p>
+
+<blockquote>
+  <p>Our deepest fear is not that we are inadequate.<br>
+Our deepest fear is that we are powerful beyond measure.<br>
+It is our light, not our darkness that most frightens us.<br>
+We ask ourselves, ‘Who am I to be brilliant, gorgeous, talented, fabulous?’ Actually, who are you not to be? <br>
+You are a child of God.<br>
+Your playing small does not serve the world. <br>
+There is nothing enlightened about shrinking so that other people won’t feel insecure around you. <br>
+We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. <br>
+It’s not just in some of us; it’s in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. <br>
+As we are liberated from our own fear, our presence automatically liberates others.<br>
+<a href="https://www.goodreads.com/quotes/928-our-deepest-fear-is-not-that-we-are-inadequate-our">A Return to Love, by Marianne Williamson</a></p>
+</blockquote>
+
+
+
+<ul class="taxonomy__index">
+  
+  
+    <li>
+      <a href="#2024">
+        <strong>2024</strong> <span class="taxonomy__count">1</span>
+      </a>
+    </li>
+  
+    <li>
+      <a href="#2023">
+        <strong>2023</strong> <span class="taxonomy__count">5</span>
+      </a>
+    </li>
+  
+</ul>
+
+
+
+
+  <section id="2024" class="taxonomy__section">
+    <h2 class="archive__subtitle">2024</h2>
+    <div class="entries-list">
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2024/02/29/lessons-feb-2024.html" rel="permalink">Lessons from Feb 2024
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-02-29T03:03:08+05:30">February 29, 2024</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">tl;dr of the lessons from this month
+A. From the Books I’m Reading
+This is Marketing by Seth Godlin
+
+  On Marketing
+    
+      “People don’t want to buy a qu...</p>
+  </article>
+</div>
+
+      
+    </div>
+    <a href="#page-title" class="back-to-top">Back to Top ↑</a>
+  </section>
+
+  <section id="2023" class="taxonomy__section">
+    <h2 class="archive__subtitle">2023</h2>
+    <div class="entries-list">
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2023/08/16/the-way-of-hashiras-or-pillars.html" rel="permalink">The Way of Hashiras (pillars)
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-08-16T04:23:08+05:30">August 16, 2023</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Why you should do everything, everyday.
+
+</p>
+  </article>
+</div>
+
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2023/07/02/thecareermint-com.html" rel="permalink">Why TheCareerMint.com
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-07-02T02:57:08+05:30">July 2, 2023</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">A note on why thecareermint.com exists
+
+</p>
+  </article>
+</div>
+
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2023/05/16/the-way-of-product-management.html" rel="permalink">The Way of Product Management
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-05-16T01:18:08+05:30">May 16, 2023</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">How to become great at the abstract job that is product management.
+
+
+</p>
+  </article>
+</div>
+
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2023/04/12/the-path-is-the-goal.html" rel="permalink">The Path is the Goal
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-04-12T03:03:08+05:30">April 12, 2023</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Playing infinite game in a finite world.
+
+
+</p>
+  </article>
+</div>
+
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2023/03/25/the-edelweiss-manifesto.html" rel="permalink">The Edelweiss Manifesto <img class="emoji" title=":cherry_blossom:" alt=":cherry_blossom:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png" height="20" width="20">
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-03-25T03:12:08+05:30">March 25, 2023</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          5 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">what is? why, and why not?!
+
+
+</p>
+  </article>
+</div>
+
+      
+    </div>
+    <a href="#page-title" class="back-to-top">Back to Top ↑</a>
+  </section>
+
+
+  </div>
+</div>
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+    <ul class="social-icons">
+      
+  
+      
+  
+      
+        <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+      
+    </ul>
+  </div>
+  
+  <div class="page__footer-copyright">© 2024 iamhasime. Built with <i class="fas fa-heart" aria-hidden="true"></i> + <i class="fas fa-fw fa-mug-hot" aria-hidden="true"></i>
+</div>
+  
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

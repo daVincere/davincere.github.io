@@ -1,0 +1,781 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>The Path is the Goal - iamhasime</title>
+<meta name="description" content="Playing infinite game in a finite world.">
+
+
+  <meta name="author" content="Hardeep Singh Mehra">
+  
+  <meta property="article:author" content="Hardeep Singh Mehra">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="iamhasime">
+<meta property="og:title" content="The Path is the Goal">
+<meta property="og:url" content="http://localhost:4000/blog/2023/04/12/the-path-is-the-goal.html">
+
+
+  <meta property="og:description" content="Playing infinite game in a finite world.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2023-04-12T03:03:08+05:30">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/blog/2023/04/12/the-path-is-the-goal.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+<link href="/feed.xml"
+  type="application/atom+xml" rel="alternate" title="iamhasime Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- LATEX -->
+<!-- <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script> -->
+
+<script>
+  window.MathJax = {
+    jax: ["input/TeX", "output/CommonHTML"],
+    extensions: ["tex2jax.js", "asciimath2jax.js", "mml2jax.js", "MathMenu.js", "MathZoom.js"],
+    TeX: {
+      extensions: ["AMSmath.js", "AMSsymbols.js", "autoload-all.js"]
+    },
+    displayIndent: 0,
+    tex2jax: {
+      inlineMath: [
+        ['$', '$'],
+        ["\\(", "\\)"]
+      ],
+      processEscapes: true
+    },
+    showMathMenu: false,
+    showProcessingMessages: false,
+    messageStyle: "none",
+    menuSettings: { zoom: "Click" },
+    AuthorInit: function () {
+      MathJax.Hub.Register.StartupHook("End", function () {
+        var timeout = false, // holder for timeout id
+          delay = 250; // delay after event is "complete" to run callback
+        var shrinkMath = function () {
+          var dispFormulas = document.getElementsByClassName("formula");
+          if (dispFormulas) {
+            // caculate relative size of indentation
+            var contentTest = document.getElementsByTagName("body")[0];
+            var nodesWidth = contentTest.offsetWidth;
+            // if you have indentation
+            var mathIndent = MathJax.Hub.config.displayIndent; //assuming px's
+            // var mathIndentValue = mathIndent.substring(0, mathIndent.length - 2);
+            for (var i = 0; i < dispFormulas.length; i++) {
+              var dispFormula = dispFormulas[i];
+              var wrapper = dispFormula.getElementsByClassName("MathJax_Preview")[0].nextSibling;
+              var child = wrapper.firstChild;
+              wrapper.style.transformOrigin = "top-left"; //or top-left if you left-align your equations
+              var oldScale = child.style.transform;
+              var newValue = Math.min(0.80 * dispFormula.offsetWidth / child.offsetWidth, 1.0).toFixed(2);
+              var newScale = "scale(" + newValue + ")";
+              if (!(newScale === oldScale)) {
+                wrapper.style.transform = newScale;
+                // wrapper.style["margin-left"] = Math.pow(newValue, 4) * mathIndentValue + "px";
+                var wrapperStyle = window.getComputedStyle(wrapper);
+                var wrapperHeight = parseFloat(wrapperStyle.height);
+                wrapper.style.height = "" + (wrapperHeight * newValue) + "px";
+                if (newValue === "1.00") {
+                  wrapper.style.cursor = "";
+                  wrapper.style.height = "";
+                }
+                else {
+                  wrapper.style.cursor = "zoom-in";
+                }
+              }
+
+            }
+          }
+        };
+        shrinkMath();
+        window.addEventListener('resize', function () {
+          clearTimeout(timeout);
+          timeout = setTimeout(shrinkMath, delay);
+        });
+      });
+    }
+  };
+
+  (function (d, script) {
+    script = d.createElement('script');
+    script.type = 'text/javascript';
+    script.async = true;
+    script.onload = function () {
+      // remote script has loaded
+    };
+    script.src = 'https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+    d.getElementsByTagName('head')[0].appendChild(script);
+  }(document));
+</script>
+
+<!-- For all browsers | Updating the theme logic  -->
+<link rel="stylesheet" href="/assets/css/main.css" id="theme_source">
+
+
+<link rel="stylesheet alternate" href="/assets/css/theme2.css" id="theme_source_2">
+<script>
+  let theme = sessionStorage.getItem('theme');
+  if (theme === "dark") {
+    sessionStorage.setItem('theme', 'dark');
+    node1 = document.getElementById('theme_source');
+    node2 = document.getElementById('theme_source_2');
+    node1.setAttribute('rel', 'stylesheet alternate');
+    node2.setAttribute('rel', 'stylesheet');
+  }
+  else {
+    sessionStorage.setItem('theme', 'light');
+  }
+</script>
+
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style"
+  onload="this.onload=null;this.rel='stylesheet'">
+<noscript>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+</noscript>
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--posts">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          iamhasime
+          
+        </a>
+        <ul class="visible-links"></ul>
+        <!-- Code to switch between two skin modes  -->
+        
+          <i class="fas fa-fw fa-adjust" aria-hidden="true" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;"></i>
+        
+        
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="/assets/images/hasime.jpg" alt="Hardeep Singh Mehra" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Hardeep Singh Mehra</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>i build stuff online</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Bangalore, India</span>
+        </li>
+      
+
+      
+        
+          
+            <li><a href="https://twitter.com/iamhasime" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+          
+            <li><a href="https://linkedin.com/in/iamhasime" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+          
+        
+          
+            <li><a href="https://instagram.com/iamhasime" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <div class="archive">
+    
+      <h1 id="page-title" class="page__title">The Path is the Goal</h1>
+    
+    <h2 id="playing-infinite-game-in-a-finite-world">Playing infinite game in a finite world.</h2>
+<hr>
+
+<blockquote>
+  <p>NOTE TO THE READER: This article is not an attempt to change you or refute your way of life. The goal of this article is to share what wisdom I’ve found in the pursuit of the same ol’ success and habit formation in my own little lived life. I remain a stern believer that people should decide for themselves the philosophy of life that works for them – no truth is definite, and no version of god supreme.</p>
+</blockquote>
+
+<p>I first started reading books in 2009. It started as a way to improve my vocabulary in school to get familiar with new ideas and a grander world in college (Rich Dad Poor Dad, Zero to One, The Lean Startup, Lee Iacocca etc). I used to read a lot and I used to read them to completion – even at the cost of great boredom. This affair with books came to a halt around 2015, my second year of college when I started working on my first startup – Dystanc (shout-out to Bhagat and Jasmine, my lovely co-founders from that time). Because I was always working towards a goal – making a damn website live, or learning that framework, or launching this website; I had no time to read books and I have never been able to take up any new hobby since then.</p>
+
+<p>Don’t get me wrong, I started reading in between, with an aim of reading 12 books in a year – could not complete even the first book. I started writing blogs, with the goal of writing 1 each month – could never muster another one. I indulged in a lot of creative ventures but could never bring anything to closure or sustain it for a longer time. All goals were set in a moment of realisation, 60 seconds of motivation and ended the way they started. Forming habits in my 20s was seeming to be a hassle until I saw this beautiful poetry on Netflix.</p>
+
+<p><a href="https://www.netflix.com/in/title/81292981">Chef’s Table: Pizza</a> happens to be one of the most beautifully crafted and multifaceted shows that I’ve watched in my recent memory. It’s up there with Everything Everywhere All at Once, and TheWhale in terms of story-telling. In this show, there’s an episode dedicated to Yoshihiro Imai, a pizza chef based in Kyoto Japan whose zen-like search for meaning ended with Pizza-making. He found the purpose of his life to be the <em>path</em> of making pizza through which he could “give people the experience of wind blowing in their hearts” – something he felt while first eating a pizza.</p>
+
+<p>In an instant, I could understand the truth of it. For him, pizza-making isn’t merely a job of putting food on the table but an endless path to sharing with others what he once felt about food. For him, the act of excellence is not a “goal” but a “path”.</p>
+
+<p>You will not read 12 books a year by <em>deciding</em> to read 12 books a year.<br>
+You will not get a 6-pack of abs by <em>deciding</em> to go to the gym 5 times a week.<br>
+You will not wake up at 7 AM by <em>deciding</em> to from Day-1 wake up at 7 AM.</p>
+
+<p>You can however start by reading 30 mins a day. You can go to the gym every day 5 times a week. And you can create and structure your day in such a manner that lets you sleep by 11 PM.</p>
+
+<p>If you couldn’t do any of these, it’s okay. It was only 1 day in the infinite days that lie ahead of you. You are not focused on results but a habit. Try the next day, and the one next to it, and then again – until it becomes second nature to you.</p>
+
+<p>The intent of reading is not to finish a book but to read and gain wisdom. The idea is not to finish a book (asap) but to cultivate the habit of reading. To get out of the loop of instant gratification and calm your mind to expansive wisdom that seeps your mind slowly and deeply.</p>
+
+<p>The intent of going to the gym is not to get a great body but to stretch and flex your muscles and remain healthy. Add fresh oxygen to your tissues so that they can sustain your lifestyle longer.</p>
+
+<p>And waking at 7 AM every day doesn’t entail anything if there’s nothing you’re looking forward to filling that day with. Lack of a purpose should not be a blocker for a lack of plan. Even without a life-changing contribution to society, one can live a fulfilled life of personal growth. All life is sacred, we pay our respect to sacred things by taking care of them.</p>
+
+<p>We focus so much on the end goal and the distance from it that it blinds us to the incredible value of compounding over time.</p>
+
+<blockquote>
+  <p>All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.<br>
+<a href="https://twitter.com/naval">@naval</a></p>
+</blockquote>
+
+<p>The intent is not to reach a goal but to follow a path. Ideally, to fall in love with the process but realistically to discipline yourself on the path to incremental growth.</p>
+
+<p>In time all goals change, and your perspective changes but the art of discipline remains that becomes a framework for attempting the unknowns in life.</p>
+
+
+<ul class="taxonomy__index">
+  
+  
+    <li>
+      <a href="#2024">
+        <strong>2024</strong> <span class="taxonomy__count">1</span>
+      </a>
+    </li>
+  
+    <li>
+      <a href="#2023">
+        <strong>2023</strong> <span class="taxonomy__count">5</span>
+      </a>
+    </li>
+  
+</ul>
+
+
+
+
+  <section id="2024" class="taxonomy__section">
+    <h2 class="archive__subtitle">2024</h2>
+    <div class="entries-list">
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2024/02/29/lessons-feb-2024.html" rel="permalink">Lessons from Feb 2024
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-02-29T03:03:08+05:30">February 29, 2024</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">tl;dr of the lessons from this month
+A. From the Books I’m Reading
+This is Marketing by Seth Godlin
+
+  On Marketing
+    
+      “People don’t want to buy a qu...</p>
+  </article>
+</div>
+
+      
+    </div>
+    <a href="#page-title" class="back-to-top">Back to Top ↑</a>
+  </section>
+
+  <section id="2023" class="taxonomy__section">
+    <h2 class="archive__subtitle">2023</h2>
+    <div class="entries-list">
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2023/08/16/the-way-of-hashiras-or-pillars.html" rel="permalink">The Way of Hashiras (pillars)
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-08-16T04:23:08+05:30">August 16, 2023</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Why you should do everything, everyday.
+
+</p>
+  </article>
+</div>
+
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2023/07/02/thecareermint-com.html" rel="permalink">Why TheCareerMint.com
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-07-02T02:57:08+05:30">July 2, 2023</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">A note on why thecareermint.com exists
+
+</p>
+  </article>
+</div>
+
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2023/05/16/the-way-of-product-management.html" rel="permalink">The Way of Product Management
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-05-16T01:18:08+05:30">May 16, 2023</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">How to become great at the abstract job that is product management.
+
+
+</p>
+  </article>
+</div>
+
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2023/04/12/the-path-is-the-goal.html" rel="permalink">The Path is the Goal
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-04-12T03:03:08+05:30">April 12, 2023</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Playing infinite game in a finite world.
+
+
+</p>
+  </article>
+</div>
+
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/blog/2023/03/25/the-edelweiss-manifesto.html" rel="permalink">The Edelweiss Manifesto <img class="emoji" title=":cherry_blossom:" alt=":cherry_blossom:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png" height="20" width="20">
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-03-25T03:12:08+05:30">March 25, 2023</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          5 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">what is? why, and why not?!
+
+
+</p>
+  </article>
+</div>
+
+      
+    </div>
+    <a href="#page-title" class="back-to-top">Back to Top ↑</a>
+  </section>
+
+
+  </div>
+</div>
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+    <ul class="social-icons">
+      
+  
+      
+  
+      
+        <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+      
+    </ul>
+  </div>
+  
+  <div class="page__footer-copyright">© 2024 iamhasime. Built with <i class="fas fa-heart" aria-hidden="true"></i> + <i class="fas fa-fw fa-mug-hot" aria-hidden="true"></i>
+</div>
+  
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

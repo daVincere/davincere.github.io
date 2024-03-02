@@ -1,0 +1,17 @@
+To install the project the first time.
+
+1. Install Brew
+
+2. Install Ruby
+
+3. gem install bundle jekyll
+
+4. bundle install jekyll
+
+5. to see drafts:
+
+$ bundle exec jekyll server --watch --drafts
+
+to see prod posts:
+
+$ bundle exec jekyll serve

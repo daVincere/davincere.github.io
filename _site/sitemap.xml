@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/blog/2023/03/25/the-edelweiss-manifesto.html</loc>
+<lastmod>2023-03-25T03:12:08+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2023/04/12/the-path-is-the-goal.html</loc>
+<lastmod>2023-04-12T03:03:08+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2023/05/16/the-way-of-product-management.html</loc>
+<lastmod>2023-05-16T01:18:08+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2023/07/02/thecareermint-com.html</loc>
+<lastmod>2023-07-02T02:57:08+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2023/08/16/the-way-of-hashiras-or-pillars.html</loc>
+<lastmod>2023-08-16T04:23:08+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2024/02/29/lessons-feb-2024.html</loc>
+<lastmod>2024-02-29T03:03:08+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>
