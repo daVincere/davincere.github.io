@@ -1,6 +1,7 @@
 name: iamhasime build
 
-push:
+on:
+  push:
     branches: ["master"]
 
 jobs:
@@ -16,7 +17,7 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-          
+
   # Deployment job
   deploy:
     environment:
