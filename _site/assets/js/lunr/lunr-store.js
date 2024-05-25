@@ -34,4 +34,10 @@ var store = [{
         "tags": ["retro, monthly"],
         "url": "/blog/2024/02/29/lessons-feb-2024.html",
         "teaser": null
+      },{
+        "title": "The Achilles' Heel Trait",
+        "excerpt":"How to prioritise your mental-peace by forgiving others’ “shortcomings”. Part of growing up is spending more time with yourself. One downstream effect of this is a higher sense of individuality and symbolically, a heightened selectivity in the type of people you want around yourself. And, although the alignment between people...","categories": ["blog"],
+        "tags": ["general"],
+        "url": "/blog/2024/05/25/achilles-heel.html",
+        "teaser": null
       }]

@@ -1,0 +1,67 @@
+---
+layout: posts
+title:  "Lessons from March 2024"
+date:  2024-03-30 09:03:08 +0530
+categories: blog
+tag: general
+---
+tl;dr of the lessons from this month
+
+## A. From the Books I'm Reading
+[The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)  
+
+
+## B. Internet
+
+1. True Masculinity  
+> Masculintity is not the opposite of Feminity. Boyish immaturitity in the opposite of masculinity.  
+> Source: [Why Iroh is the Pinnacle of Masculinity](https://youtu.be/IzINu0wezWU?si=zexX6qgRdx3YWxwi&t=42)
+
+Growing up, I was always confused on what being a man truly meant. I grew up on movies from the 90s and the masculinity shown in those, reviewing them today .. who tf was writing them. TV (up until very recently), society, _our_ homes were never the ideal places to figure out masculintity and in such a sphere we were expected to behave _respectfully_ with the other half? No wonder we're in such a sad spot on the timeline. India still fares VERY low ([37%](https://pib.gov.in/PressReleasePage.aspx?PRID=1967291)) in terms of female participation in workspace. 
+
+In a vacum of good ideas, weak ones spread. In the absence of mature male figures/voices, and with the ease of spread of ideas on the internet, we left this important topic to a DU freshmen Eng literature student, who herself was going with the vibe on most things. The idea of feminism came on the forefront -- and not in the best way. The idea of gender equality rather than positive geneder roles. Somehow and understandably, women became the oppressed class? (instead of the misunderstood and misrepresented ones). 
+
+And how did we react? DEI in the west. Women quota in jobs, govt. offices, elections and so much more. More efforts were pushed in the pretend-equality rather than conscious equality. 
+
+Anyway, we're on a latter part of this bell-curve now. We're understanding the limits of those bad ideas and I guess we have a results of the experiments in - Masculintity is not the opposite of Feminity. Boyish immaturitity in the opposite of masculinity.
+
+2.  Shivaji and the Maratha Empire  
+On my recent Pune-Mumbai trip, there are a few things that come out very stongly to you:
+1. Celebration of Social Workers
+2. Enterprise mentality (as opposed to Startup mentality)
+3. More acceptance of the Indian Freedom struggle
+4. Better governance compared to the rest of the country -- you see political influence everywhere
+5. Sivaji - everywhere and in everything
+
+I was more intrigued by the #5 more than anything. A political king, rising to the role of state embelem, which never happens everywhere else. 
+
+
+3. All cities either die a Kochi or live long enough to become Mumbai.
+
+5. pune
+- a society that has prioritised stablity and a simple life over more complex and competitive life
+
+6. mumbai
+- a society where a normal human can never feel belonging. when the socity doesn't work for you, how long can you remain for that society.
+- I guess, this makes the populus of mumbai to always be running. 
+- it's a big city and one that can destory someone's individuality so easily.
+
+7. Parsi society and Parsi Businesses
+
+8. Comformity in a Lifestyle and the death of life
+
+9. Hedonism
+
+10. Epicurianism 
+
+
+## C. Startup
+
+1. Bhagwaan
+
+Was researching Zappos and few points stuck-out:
+- They had key values that they decided that would direct it's employees when in doubt: wowing their customers and delivering the best customer service
+    - They then had 10 core values that drove their company forward -- https://www.zappos.com/c/about
+- They decided very early on to own each point of impact for their customers -- hence moved to warehouse <> delivery model rather than a dropshipping model.
+    - This changed when Dr Marten's got onboarded into the company -- yet again showing how 1 change has everlasting impacts in a company and why a balance of it all usually works.
+- 
