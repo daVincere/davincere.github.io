@@ -44,6 +44,6 @@ var store = [{
         "title": "The Way of Ideas",
         "excerpt":"No idea is a universal idea. All ideas have a limited scale. Some ideas, like socialism, work great between a family or a group of friends but fail at a scale of society. Other ideas, like capitalism create wedges between a community but work great in running a country and...","categories": ["blog"],
         "tags": ["general"],
-        "url": "/blog/2024/06/09/the-peculier-case-of-ideas.html",
+        "url": "/blog/2024/06/09/the-way-of-ideas.html",
         "teaser": null
       }]
