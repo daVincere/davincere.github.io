@@ -1,0 +1,534 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Path Is The Goal Second - iamhasime</title>
+<meta name="description" content="">
+
+
+  <meta name="author" content="Hardeep Singh Mehra">
+  
+  <meta property="article:author" content="Hardeep Singh Mehra">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="iamhasime">
+<meta property="og:title" content="Path Is The Goal Second">
+<meta property="og:url" content="http://localhost:4000/2023/04/12/path-is-the-goal-second.html">
+
+
+  <meta property="og:description" content="">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2023-04-12T00:00:00+05:30">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/2023/04/12/path-is-the-goal-second.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+<link href="/feed.xml"
+  type="application/atom+xml" rel="alternate" title="iamhasime Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- LATEX -->
+<!-- <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script> -->
+
+<script>
+  window.MathJax = {
+    jax: ["input/TeX", "output/CommonHTML"],
+    extensions: ["tex2jax.js", "asciimath2jax.js", "mml2jax.js", "MathMenu.js", "MathZoom.js"],
+    TeX: {
+      extensions: ["AMSmath.js", "AMSsymbols.js", "autoload-all.js"]
+    },
+    displayIndent: 0,
+    tex2jax: {
+      inlineMath: [
+        ['$', '$'],
+        ["\\(", "\\)"]
+      ],
+      processEscapes: true
+    },
+    showMathMenu: false,
+    showProcessingMessages: false,
+    messageStyle: "none",
+    menuSettings: { zoom: "Click" },
+    AuthorInit: function () {
+      MathJax.Hub.Register.StartupHook("End", function () {
+        var timeout = false, // holder for timeout id
+          delay = 250; // delay after event is "complete" to run callback
+        var shrinkMath = function () {
+          var dispFormulas = document.getElementsByClassName("formula");
+          if (dispFormulas) {
+            // caculate relative size of indentation
+            var contentTest = document.getElementsByTagName("body")[0];
+            var nodesWidth = contentTest.offsetWidth;
+            // if you have indentation
+            var mathIndent = MathJax.Hub.config.displayIndent; //assuming px's
+            // var mathIndentValue = mathIndent.substring(0, mathIndent.length - 2);
+            for (var i = 0; i < dispFormulas.length; i++) {
+              var dispFormula = dispFormulas[i];
+              var wrapper = dispFormula.getElementsByClassName("MathJax_Preview")[0].nextSibling;
+              var child = wrapper.firstChild;
+              wrapper.style.transformOrigin = "top-left"; //or top-left if you left-align your equations
+              var oldScale = child.style.transform;
+              var newValue = Math.min(0.80 * dispFormula.offsetWidth / child.offsetWidth, 1.0).toFixed(2);
+              var newScale = "scale(" + newValue + ")";
+              if (!(newScale === oldScale)) {
+                wrapper.style.transform = newScale;
+                // wrapper.style["margin-left"] = Math.pow(newValue, 4) * mathIndentValue + "px";
+                var wrapperStyle = window.getComputedStyle(wrapper);
+                var wrapperHeight = parseFloat(wrapperStyle.height);
+                wrapper.style.height = "" + (wrapperHeight * newValue) + "px";
+                if (newValue === "1.00") {
+                  wrapper.style.cursor = "";
+                  wrapper.style.height = "";
+                }
+                else {
+                  wrapper.style.cursor = "zoom-in";
+                }
+              }
+
+            }
+          }
+        };
+        shrinkMath();
+        window.addEventListener('resize', function () {
+          clearTimeout(timeout);
+          timeout = setTimeout(shrinkMath, delay);
+        });
+      });
+    }
+  };
+
+  (function (d, script) {
+    script = d.createElement('script');
+    script.type = 'text/javascript';
+    script.async = true;
+    script.onload = function () {
+      // remote script has loaded
+    };
+    script.src = 'https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+    d.getElementsByTagName('head')[0].appendChild(script);
+  }(document));
+</script>
+
+<!-- For all browsers | Updating the theme logic  -->
+<link rel="stylesheet" href="/assets/css/main.css" id="theme_source">
+
+
+<link rel="stylesheet alternate" href="/assets/css/theme2.css" id="theme_source_2">
+<script>
+  let theme = sessionStorage.getItem('theme');
+  if (theme === "dark") {
+    sessionStorage.setItem('theme', 'dark');
+    node1 = document.getElementById('theme_source');
+    node2 = document.getElementById('theme_source_2');
+    node1.setAttribute('rel', 'stylesheet alternate');
+    node2.setAttribute('rel', 'stylesheet');
+  }
+  else {
+    sessionStorage.setItem('theme', 'light');
+  }
+</script>
+
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style"
+  onload="this.onload=null;this.rel='stylesheet'">
+<noscript>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+</noscript>
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          iamhasime
+          
+        </a>
+        <ul class="visible-links"></ul>
+        <!-- Code to switch between two skin modes  -->
+        
+          <i class="fas fa-fw fa-adjust" aria-hidden="true" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;"></i>
+        
+        
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="/assets/images/hasime.jpg" alt="Hardeep Singh Mehra" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Hardeep Singh Mehra</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>i build stuff online</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Bangalore, India</span>
+        </li>
+      
+
+      
+        
+          
+            <li><a href="https://twitter.com/iamhasime" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+          
+            <li><a href="https://linkedin.com/in/iamhasime" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+          
+        
+          
+            <li><a href="https://instagram.com/iamhasime" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Path Is The Goal Second">
+    <meta itemprop="description" content="">
+    <meta itemprop="datePublished" content="2023-04-12T00:00:00+05:30">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Path Is The Goal Second
+</h1>
+          
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-04-12T00:00:00+05:30">April 12, 2023</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        
+<p>Growing up in an army family (<em>moi an army brat</em>), I always wanted to become an Indian Army Officer. The sense of patriotism, contributing to the country at the highest and the most endeared levels filled me with a sense of purpose in life. It was almost the only thing that I prepared for all my school life. That was until I failed my maiden <a href="https://en.wikipedia.org/wiki/Services_Selection_Board">SSB exam</a> – the one you need to pass to be able to be recommended into the prestigious <a href="https://en.wikipedia.org/wiki/National_Defence_Academy_(India)">NDA</a>. I was distraught, the dream that had sustained me was all but lost. Since then, I’ve tried and failed multiple times – at different ventures and pursuits. In the process, I tried a lot of things and accepted a few dogmas but the truth of it only came while watching a Netflix show over dinner earlier this year.</p>
+
+<p>Which show? <a href="https://www.netflix.com/in/title/81292981">Chef’s Table: Pizza</a> it’s one of the most beautifully crafted and multifaceted shows that I’ve watched in my recent memory. Beautiful story-telling, beautiful cinematography; <em>when was the last time a food show excited you?!</em> While the show has some great chef’s and how their philosophies seep into the process of food they serve, it was the episode on Yoshihiro Imai, a pizza chef based in Kyoto, Japan that made me understand what I wanted at the moment. On his spiritual-isq search for meaning and purpose in life, he discovered Pizza-making and he decided to “walk the path”.</p>
+
+<p>So, what is a path? From what I understand, in Japanese society, the concept of a path is more important than the goal. The destination is more important the journey. The practice of martial arts is more important than the duel itself. What they’re really trying at is that a person finds himself on his path. There are many paths and it is a person’s job to find one for themself. It shows in the various hobbies that you’d normally accociate with the Japs. Think tea-making for example. The goal of the ceremony is <em>not</em> the drink itself but its a spiritual and metaphorical practice of one-ness and ego-less act of being in a moment. It’s the process that centralises you – not the tea.</p>
+
+<p>A path allows for an infinite game, while a goal is the often the end of the game. While it is natual even to think of our pursuits in terms of their goals – think to yourself, is any of your pursuits truly the “goals” themselves? Think about it, no goal was ever about itself. It was just a step to the next thing. I see</p>
+
+<p>Imagine a finite game of running a marathon. Imagine, 
+Thinking about this, for a goal-oriented person, I’m reminded of <a href="https://en.wikipedia.org/wiki/Shoe_Dog">“The Shoe Dog”</a>– “The cowards never started, and the weak died on the way – that leaves us.”</p>
+
+<p>The strong-willed will persist still (and may even climb another million steps), and those with fire in their bellies and an insatiable urge to prove themselves would endure the hardships but those are the selected few. Most people do not feel this about climbing steps, and there exists a simpler truth for them – like the act of walking. [ this needs to be better]</p>
+
+<p>This is still a finite game scenario. Life is never a finite game. We all live finite lives but with infinite possibilities.</p>
+
+<p>You will not read 12 books a year by deciding to read 12 books a year.
+You will not get a 6-pack of abs by deciding to go to the gym 5 times a week.
+You will not learn to play the guitar by deciding to play the guitar.</p>
+
+<p>You can however start by reading 30 mins a day. You can go to the gym every day 5 times a week. And you can decide to devote 30 mins of hands-on guitar fiddling a day.</p>
+
+<p>Why? Because for me, the intent of reading is not to finish a book but to read and gain wisdom. The intent of going to the gym is not to get a great body but to move your muscles and remain healthy. And the intent of learning a guitar is not to play in a band but to indulge myself in making music.</p>
+
+<p>The intent is not to reach a goal but to follow a path. Ideally to fall in love with it but realistically to discipline yourself on the path to incremental growth.</p>
+
+<p>With time goals are made away but the habits remain. The act of discipline remains that becomes a framework for attempting anything in life.</p>
+
+<p>You will not read 12 books a year by <em>deciding</em> to read 12 books a year.<br>
+You will not get a 6-pack of abs by <em>deciding</em> to go to the gym 5 times a week.<br>
+You will not learn to play the guitar by <em>deciding</em> to play the guitar.</p>
+
+<p>You can however start by reading 30 mins a day. You can go to the gym every day 5 times a week. And you can create room to devote 30 mins of hands-on guitar fiddling a day.</p>
+
+<p>The intent of reading is not to finish a book but to read and gain wisdom. The intent of going to the gym is not to get a great body but to strech and flex your muscles and remain healthy. And the intent of learning a guitar is not to play in a band but to indulge myself in the passionate act of music-making.</p>
+
+<p>The intent is not to reach a goal but to follow a path. Ideally, to fall in love with the process but realistically to discipline yourself on the path to incremental growth.</p>
+
+<p>In time the goals change, your perspective changes but the art of discipline remains that becomes a framework for attempting the unknowns in life.</p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2023-04-12T00:00:00+05:30">April 12, 2023</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=Path+Is+The+Goal+Second%20http%3A%2F%2Flocalhost%3A4000%2F2023%2F04%2F12%2Fpath-is-the-goal-second.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2023%2F04%2F12%2Fpath-is-the-goal-second.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Flocalhost%3A4000%2F2023%2F04%2F12%2Fpath-is-the-goal-second.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/blog/2023/03/25/the-edelweiss-manifesto.html" class="pagination--pager" title="The Edelweiss Manifesto :cherry_blossom:
+">Previous</a>
+    
+    
+      <a href="/blog/2023/04/12/the-path-is-the-goal.html" class="pagination--pager" title="The Path is the Goal
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+    <ul class="social-icons">
+      
+  
+      
+  
+      
+        <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+      
+    </ul>
+  </div>
+  
+  <div class="page__footer-copyright">© 2024 iamhasime. Built with <i class="fas fa-heart" aria-hidden="true"></i> + <i class="fas fa-fw fa-mug-hot" aria-hidden="true"></i>
+</div>
+  
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
