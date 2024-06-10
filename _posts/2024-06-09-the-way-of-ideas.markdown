@@ -16,7 +16,7 @@ Hence, no idea acts in the best interest of everyone. British Imperialism was br
 
 Similarly, there are no final ideas – everything is part of a greater unfolding system that builds on top of the existing ideas and keeps piling on.
 
-At times, one might feel that ideas are cyclical rather than incremental. That’s because all ~good~ ideas are re-discoverable. Why? Because, all ideas build upon the older ones. Hence, it is imperative that we learn from the earlier mishaps with greater ideas. Totalitarianism is one such idea.
+At times, one might feel that ideas are cyclical rather than incremental. That’s because all ~~good~~ ideas are re-discoverable. Why? Because, all ideas build upon the older ones. Hence, it is imperative that we learn from the earlier mishaps with greater ideas. Totalitarianism is one such idea.
 
 Ideas are time-dependent too. Because humans forget and omit all the time, as and when the times repeat themselves, so do the ideas coming out of that time. [The Italian Renaissance](https://en.wikipedia.org/wiki/Italian_Renaissance) is a great example of it. It built upon the already explored arts by [Ancient Rome](https://en.wikipedia.org/wiki/Classical_antiquity) – after the [“Dark Ages”](https://en.wikipedia.org/wiki/Dark_Ages_(historiography)); a gap of over 10 centuries.
 
