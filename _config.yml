@@ -120,6 +120,7 @@ defaults:
       path: ""
     values:
       author_profile: true
+
   # _posts
   - scope:
       path: ""
@@ -133,6 +134,7 @@ defaults:
       comments: false
       share: true
       related: false
+    
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -154,15 +156,4 @@ defaults:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# AI Community Newsletter Section
-sidebar:
-  - title: "AI Builders Community"
-    text: "Join our community of AI builders and stay updated with the latest in AI"
-    nav: ai_community
-    
-ai_community:
-  - title: "Subscribe to the Newsletter" 
-    url: "https://your-newsletter.substack.com"
-  - title: "Weekly AI insights and updates"
-  - title: "Community discussions and networking" 
-  - title: "Exclusive resources for builders"
+
