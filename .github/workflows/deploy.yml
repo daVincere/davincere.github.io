@@ -1,10 +1,13 @@
-name: Jekyll Site CI
+name: Jekyll Hasime CI
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    branches: ["master"]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -18,9 +21,9 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-    - name: Upload artifact
-      # Automatically uploads an artifact from the './_site' directory by default
-      uses: actions/upload-pages-artifact@v3
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
