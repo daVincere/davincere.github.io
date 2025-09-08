@@ -9,3 +9,4 @@
 - [ ] Add Algolia Search
 - [ ] Add an ability to add mental modals from anywhere -- ideally via form.
 - [ ] Add a functionality to have multiple tabs
+- [ ] Add a separate pages for different stuff -- product, philosopy and likewise 
