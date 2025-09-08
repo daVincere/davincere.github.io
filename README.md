@@ -7,3 +7,5 @@
 - [ ] Add Google Analytics
 - [ ] Add a page to direct to contact me
 - [ ] Add Algolia Search
+- [ ] Add an ability to add mental modals from anywhere -- ideally via form.
+- [ ] Add a functionality to have multiple tabs

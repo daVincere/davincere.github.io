@@ -17,36 +17,55 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# Site settings
 locale: 'en-US'
 title: iamhasime
 email: hasime@alwayz.in
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   A builder's journey through entrepreneurship, technology, and life
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iamhasime.com"  # Added https:// for secure connection
-twitter_username: iamhasime
-github_username:  daVincere
+url: "https://iamhasime.com"
+baseurl: ""
 
-# Build settings
+# Theme settings
 theme: minimal-mistakes-jekyll
-
-# to enable toggle between dark and default theme [ source: https://github.com/mmistakes/minimal-mistakes/discussions/2033#discussioncomment-257421 ]
 minimal_mistakes_skin: "dirt"
 minimal_mistakes_skin2: "dark"
 
-# Additional site features
-search: true  # Enable site search
+# Site features
+search: true
 lunr:
   search_within_pages: true
+words_per_minute: 200
+paginate: 10
+paginate_path: /page:num/
 
-# Analytics (optional)
+# Analytics
 analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-048N04377K"
     anonymize_ip: true
 
-# Site Footer
+# Author profile
+author:
+  name: "Hardeep Singh Mehra"
+  avatar: "/assets/images/hasime.jpg"
+  bio: "Builder in AI"
+  location: "Bangalore, India"
+  links:
+    - label: "X/Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/iamhasime"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/iamhasime"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/daVincere"
+    - label: "Newsletter"
+      icon: "fas fa-fw fa-link"
+      url: "https://thisweekinaiclub.substack.com/"
+
 footer:
   links:
     - label: "X"
@@ -58,51 +77,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/daVincere"
-
-# Author profile
-author:
-  name: "Hardeep Singh Mehra"
-  avatar: "/assets/images/hasime.jpg"
-  bio: "Builder"
-  location: "Bangalore, India"
-  links:
-    - label: "X/Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/iamhasime"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/iamhasime"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/iamhasime"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/daVincere"
-
-# Reading time settings
-words_per_minute: 200
-
-# Pagination
-paginate: 5
-paginate_path: /page:num/
-
-# Archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-# SEO Related
-twitter:
-  username: iamhasime
-social:
-  type: Person
-  links:
-    - "https://twitter.com/iamhasime"
-    - "https://linkedin.com/in/iamhasime"
-    - "https://github.com/daVincere"
+    - label: "Newsletter"
+      icon: "fas fa-fw fa-link"
+      url: "https://thisweekinaiclub.substack.com/"
 
 # Plugins
 plugins:
@@ -113,47 +90,28 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
-# Defaults (keep your existing defaults)
+# Defaults
 defaults:
-  # home
   - scope:
       path: ""
-    values:
-      author_profile: true
-
-  # _posts
-  - scope:
-      path: ""
-      type: posts
+      type: "posts"
     values:
       layout: single
-      show_date: true
-      # classes: wide
       author_profile: true
+      show_date: true
       read_time: true
-      comments: false
       share: true
-      related: false
-    
+  
+  - scope:
+      path: "_mental-models"
+      type: mental-models
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-
+# Collections
+collections:
+  mental-models:
+    output: true
+    permalink: /:collection/:title/

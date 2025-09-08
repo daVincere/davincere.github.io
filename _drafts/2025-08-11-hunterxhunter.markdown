@@ -1,0 +1,34 @@
+---
+layout: posts
+title:  "Hunter x Hunter"
+date:  2025-08-11 09:09:04 +0530
+categories: blog
+tag: anime, philosophy
+---
+# Refined
+
+I started watching Hunter × Hunter in the first week of August to pass the time—and to distract myself from the breakup I was going through. I’d always believed that to avoid hurt, I needed to numb my senses, to immerse myself in something easy that didn't demand much thinking. That was exactly what I expected this anime to be—a typical run-of-the-mill Japanese series, targeted towards kids, a lightweight teen story. But something magical happened starting with the Greed Island and Chimera Ant arcs—the latter resonated profoundly with me, long after I finished the series.
+
+What makes Hunter × Hunter so special unfolds on three levels:
+
+Friendship over all else. The show beautifully encapsulates the idea that, no matter how much the world or even family may betray you, friends can be a lifeline. It’s a powerful, central theme—perhaps a classic trope in Japanese philosophy—but here it's handled with such artistry. For a teen, that's likely one of the most powerful takeaways.
+
+Meruem’s transformation through compassion. Initially, Meruem embodies coldness and cruelty, viewing humanity as mere prey. But his encounter with Komugi—a blind, frail girl who outsmarts him in Gungi—awakens empathy, humility, and emotional awareness in him. This shift, from despising humanity to deeply caring for it (largely through his bond with Komugi), is one of the most poignant arcs I’ve ever seen.
+
+Chairman Netero’s sacrifice and the human spirit. Netero’s final stand against Meruem with the Poorer Man’s Rose encapsulates resolve, determination, and selflessness. It’s not just skill that defines a hero—it’s heart, focus, and the unbreakable human will, even in the face of overwhelming power. That arc stands as a testament to the indomitable nature of humanity and the moral weight of sacrifice.
+
+In the end, Gon meets his father, Ging, atop the world tree. The question we’ve been asking the whole series—"Why did he leave you on Whale Island instead of raising you?"—is finally addressed. Ging seems to answer that his pursuit of truth and discovery led him to leave Gon behind. Yet, he offers a tender reprise: what you truly need in life may just appear when you’re not chasing it directly. It’s a subtle but beautiful reminder to pursue your dreams—and yet not lose sight of what matters along the way.
+
+
+
+# Raw
+I started watching Hunter x Hunter in the first week of August to cut time and to not think about the breakup that I was going through. I have always assumed and I believe that if you wish to not think about an emotional situation you have to somehow numb your senses and you need to put your head into things that do not not require a lot of active thinking and being a very high active thinker. This is both against me. Now, I went into this show, assuming it was just one of those run of a mill Japanese anime series and to some extent for the first, at least for the the first two series, it was that it was just the run of a mill show which quietly emulated or any other teenager story, you know. this was targeted towards kids, this was targeted towards a philosophy and yeah that was that. But magic started happening when we entered the Creed Island, the Kamira and Arcs. these two arcs kind of reshaped and not even redilanded. the fifth season the season where in the Chimera and and RKs, this just stuck out to me. and it has stuck with me even after a day of finishing the entire series. 
+
+Now what is so special about the camera and art? Now it has to do with three levels at least that I can think of. Number one is the show's focus on everything being great until with friends. and this is a very central theme of the Japanese anime and Japanese philosophy that the world can turn against you, your parents can turn against you, things can turn against you, but if you have friends everything will be all right and this show beautifully encapsulates that feeling and I think it is the central theme of this particular story and these types of shows, friendships over all other relationships. And again, it is not a bad ploy and it's beautifully crafted and it looks and yeah. For a kid in their teens looking at this show, I'm pretty sure that is one of the major things that will take home. 
+
+
+the second takeaway was the was the arc wherein the king Meruem starts being with a blind, messy child. And the way it reshapes his character as a more empathetic, understanding human. And the entire arc was a beautiful sight to withhold. like his transition from being a creature that hated humanity to being a creature who sort of understood what that humanity too had its greatness. So, yeah, a great portrayal of humanity versus some other vanity. 
+
+The last and the most important thing that I have felt in the show was the Netro arc wherein in Chairman Neto sort of sacrifices himself for defeating the enemy. the entire proposition of him trying to find about the opponent, him trying to... to with with resolve and the resolution with the strength of character with determination with his heart and soul t-shirt, with his focus on you leading the guts and not the skill at times, philosophy, all of this when they came together against a strong creature like Meruem who could not be harmed even in a single blow. So, all of it beautifully came together to portray the indomitable spirit of humans, that that is the resolve that we have, the determination that we possess, the way we tell ourselves stories that strengthen our character. and then finally the endless malice within the human heart, the lines with which the chairman goes away. So, again, it was a beautifully executed, beautifully written, beautifully crafted arc. 
+
+Now in the end Gondas find his father and they have a very beautiful conversation atop the world tree and the question that was in all our heads the entire series was asked might have gone to his father as to what was so important that he left him on whale island instead of raising a kid. And the answer might be very very controversial and it is subjected to anyone's consumption of it. But I feel what Gawain really meant is that there are always things out there that there there are truths that he needed to explore. And that was, that's what he was after, that's what lead him to abandon his son and go after those truths and but i think the author the realized the controversiality or the disdain in this comment. So, in the end, he does give Jin a takeaway line that, that enjoy the sideways but what you may often need you can just you may just find across the road. That is a very beautiful callback to following what you want in life obviously, but to not all not lose track of things that give you happiness things that you might just find by 

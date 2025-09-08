@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Mental Models Collection",
+        "excerpt":"Building The most popular and well-loved companies, products, and causes have the strongest opponents. Outside of the extreme emotions -- 'I LOVE YOUR PRODUCT!!' or 'I HATE YOUR PRODUCT!!!' you're in the zone of mediocrity. To create passionate users, you MUST create passionate opponents. Link → September 09, 2025 Management...","categories": [],
+        "tags": [],
+        "url": "/mental-models/",
+        "teaser": null
+      },{
         "title": "The Edelweiss Manifesto :cherry_blossom:",
         "excerpt":"what is? why, and why not?! I was first introduced to the word edelweiss in a Youtube video from a channel called “History Buffs’’. History Buffs’ creator Nik Hodges critiques historical movies for their accuracy and fiction – in the process presenting a commentary on the history and culture of...","categories": ["blog"],
         "tags": ["philosophy"],
