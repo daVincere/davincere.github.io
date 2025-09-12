@@ -7,16 +7,16 @@ tag: philosophy, productivity
 ---
 It's the start of Sept. I'm 9 months into my second stint at the startup journey. 90% of my runway is gone (some investments came up) and I'm brimming with ideas and insights to build on.
 
-[This Week in AI](https://thisweekinaiclub.substack.com) is growing well -- finally! Good week-on-week growth in both readership and subscription.  
+[**This Week in AI**](https://thisweekinaiclub.substack.com) is growing well -- finally! Good week-on-week growth in both readership and subscription.  
 
-[The AGI School](https://theagischool.com) is gaining recognition within my ICPs.  
+[**The AGI School**](https://theagischool.com) is gaining recognition within my ICPs.  
 
 And now, I'm emboldened to build a new brand for freelancing. For this I've chosen Substack and Twitter as the channels of growth.
 
 All this while, I get ideas for two new apps:
-1. Birthday Reminder App - still long on it. I believe no app exists that has become the go-to place for saving important dates for people.
+1. **Birthday Reminder App** - still long on it. I believe no app exists that has become the go-to place for saving important dates for people.
 
-2. Duolingo-like Language-learning app for learning Kannada.
+2. **Duolingo-like Language-learning app** for learning Kannada.
 
 By nature, I'm pragmatic and calculative. But it blinds me to believe that I'll be able to pull all these off with the "right kind of balance".
 
@@ -28,7 +28,7 @@ The website, the app, the endless blogs and newsletters, it was as if I was just
 
 It was at a moment of deep honesty with myself that I finally understood -- I was not focused. I had too many things that I was trying to do and I wasn't getting anywhere with anything.
 
-The realization came with a philosophical intervention: The way of doing less.
+#### The realization came with a philosophical intervention: The way of doing less.
 
 Doing less is not to say that you are a lazy buffoon but that you need to actively choose to do less and focus more on the care with which you ARE doing.
 
@@ -46,4 +46,17 @@ This is the magic of focus -- and the result of the way of doing less.
 
 Intentional, focused, deep psychological and spiritual devotion to a single act that it becomes THE edge.
 
+#### So what am I doing now?
+
+Deep focus on only 1 thing: building This Week in AI. 
+
+The aim is to get 1.5K subscribers by the end of September. ( *At the time of writing this, we're at ~850 after 9 months FYI* )
+
+I've identified that we need to only go after high-intent, opportunity-focused entrepreneurs and operators in India. And we need to be cash-positive by the end of the year.  
+
+All this while deeply focusing on what I do and straying off of any glint of inspiration ricocheting from the universe.
+
 Not "doing less" but actively choosing to do less -- for focussed efforts, allowing greatness to sprout.
+
+
+
