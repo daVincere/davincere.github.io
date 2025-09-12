@@ -52,4 +52,10 @@ var store = [{
         "tags": ["general"],
         "url": "/blog/2024/06/09/the-way-of-ideas.html",
         "teaser": null
+      },{
+        "title": "The Way of Doing Less",
+        "excerpt":"It’s the start of Sept. I’m 9 months into my second stint at the startup journey. 90% of my runway is gone (some investments came up) and I’m brimming with ideas and insights to build on. This Week in AI is growing well – finally! Good week-on-week growth in both...","categories": ["blog"],
+        "tags": ["philosophy, productivity"],
+        "url": "/blog/2025/09/10/the-way-of-doing-less.html",
+        "teaser": null
       }]

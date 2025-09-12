@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/mental-models/</loc>
-<lastmod>2025-09-09T03:47:27+05:30</lastmod>
+<lastmod>2025-09-12T19:32:25+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/2023/03/25/the-edelweiss-manifesto.html</loc>
@@ -35,6 +35,10 @@
 <url>
 <loc>http://localhost:4000/blog/2024/06/09/the-way-of-ideas.html</loc>
 <lastmod>2024-06-09T16:19:04+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2025/09/10/the-way-of-doing-less.html</loc>
+<lastmod>2025-09-10T13:01:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
