@@ -23,8 +23,8 @@ title: iamhasime
 email: hasime@alwayz.in
 description: >-
   A builder's journey through entrepreneurship, technology, and life
-url: "https://iamhasime.com"
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://iamhasime.com"      # Your production URL
+baseurl: ""                       # Leave empty if site is at root
 
 # Theme settings
 theme: minimal-mistakes-jekyll
