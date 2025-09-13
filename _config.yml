@@ -24,7 +24,7 @@ email: hasime@alwayz.in
 description: >-
   A builder's journey through entrepreneurship, technology, and life
 url: "https://iamhasime.com"
-baseurl: ""
+baseurl: "https://iamhasime.com" # the subpath of your site, e.g. /blog
 
 # Theme settings
 theme: minimal-mistakes-jekyll
@@ -49,7 +49,7 @@ analytics:
 # Author profile
 author:
   name: "Hardeep Singh Mehra"
-  avatar: "/assets/images/hasime.jpg"
+  avatar: "/assets/images/hasime.png"
   bio: "Builder in AI"
   location: "Bangalore, India"
   links:

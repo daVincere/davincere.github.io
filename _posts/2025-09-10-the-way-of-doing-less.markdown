@@ -26,25 +26,32 @@ But here's the reality: I was nowhere near the milestones that I'd set for mysel
 
 The website, the app, the endless blogs and newsletters, it was as if I was just doing things and the time was passing without any changes.
 
-It was at a moment of deep honesty with myself that I finally understood -- I was not focused. I had too many things that I was trying to do and I wasn't getting anywhere with anything.
+It was in a moment of unflinching honesty with myself that I finally understood -- I was not focused. I had too many things that I was trying to do and I wasn't getting anywhere with anything.
 
-#### The realization came with a philosophical intervention: The way of doing less.
+This became concrete when my mentor and my ex-boss, Ayushmaan Kapoor 🙌, in a session that felt more like an intervention, laid out my choices that felt more like the choices given to Neo in the first Matrix movie -- red or blue, focus or drift.
 
-Doing less is not to say that you are a lazy buffoon but that you need to actively choose to do less and focus more on the care with which you ARE doing.
+#### Deeper pondering made it philosophical: The way of doing less.
 
-It's the timeless wisdom, understood across cultures and schools of thought.
+Doing less is not to say that you become a lazy buffoon but that you actively choose to do less. It is to focus more, care more on the singular action that you are commiting.
 
-The Japanese way of perfection. The 10000 hours principle. 99% perseverance rule. This and that, it's all the same.
+It is the discipline of refusal, the courage of restraint. 
 
-Doing the same thing, for more time than you normally would, with unique experimentations results in evolution within those acts. 
+To choose less is to choose depth. 
+To do less is to care more for the thing being done.
+
+It's the timeless wisdom, echoed across cultures and schools of thought.
+
+The Japanese way of perfection. The 10,000 hours principle. 99% perseverance rule. This and that, it's all the same.
+
+Doing the same thing, for longer than most would, with unique experimentations, that leads to evolution. 
 
 Each evolution adds to the step-function of the act and allows for leaps to take place.
 
 In the end of the entire cycle, it allows for compounding to happen.
 
-This is the magic of focus -- and the result of the way of doing less.
+This is the magic of focus -- and the result of the **way of doing less**.
 
-Intentional, focused, deep psychological and spiritual devotion to a single act that it becomes THE edge.
+Intentional, focused, deep psychological and spiritual devotion to a single act that it becomes the edge.
 
 #### So what am I doing now?
 
@@ -58,5 +65,7 @@ All this while deeply focusing on what I do and straying off of any glint of ins
 
 Not "doing less" but actively choosing to do less -- for focussed efforts, allowing greatness to sprout.
 
+
+PS: Special shout-out to Diven and Tilak sir for their endless feedback sessions, strenuous debates, endless discussions and for simply bearing with me 24x7.  
 
 
