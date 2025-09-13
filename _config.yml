@@ -24,7 +24,7 @@ email: hasime@alwayz.in
 description: >-
   A builder's journey through entrepreneurship, technology, and life
 url: "https://iamhasime.com"
-baseurl: "https://iamhasime.com" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Theme settings
 theme: minimal-mistakes-jekyll
@@ -80,6 +80,19 @@ footer:
     - label: "Newsletter"
       icon: "fas fa-fw fa-link"
       url: "https://thisweekinaiclub.substack.com/"
+
+# Social Sharing
+twitter:
+  username: "iamhasime"
+  card: summary_large_image
+
+og_image: "/assets/images/hasime.png"
+social:
+  type: "Person"
+  links:
+    - "https://x.com/iamhasime"
+    - "https://linkedin.com/in/iamhasime"
+    - "https://thisweekinaiclub.substack.com/"
 
 # Plugins
 plugins:

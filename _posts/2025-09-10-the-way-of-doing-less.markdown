@@ -4,6 +4,9 @@ title:  "The Way of Doing Less"
 date:  2025-09-10 13:01:00 +0530
 categories: blog
 tag: philosophy, productivity
+header:
+  image: 
+  og_image: /assets/images/hasime.png
 ---
 It's the start of Sept. I'm 9 months into my second stint at the startup journey. 90% of my runway is gone (some investments came up) and I'm brimming with ideas and insights to build on.
 
