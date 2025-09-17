@@ -8,3 +8,37 @@
   tag: "Management"
   text: "When you delegate a task, you give away not only the task but also the authority to make decisions about how to carry it out. If you retain decision-making authority, you haven't truly delegated."
   date: 2025-09-09
+
+- id: 3
+  tag: "Strategy"
+  text: "Smart companies try to commoditize their products’ complements."
+  date: 2025-09-15
+
+- id: 4
+  tag: "Self"
+  text: "Taken to extremes, even the best ideas are harmful. The best ideas are the ones that are most flexible and adaptable to changing circumstances."
+  date: 2025-09-16
+
+- id: 5
+  tag: "Networking"
+  text: |-
+    1. Choose environments over events.
+    2. Take actions, not meetings.
+    3. Give them value, rather than advice.
+    4. 
+    - Beginners: Traget competence.  
+    - Mid-level: Target ownership. 
+    - Senior: Target leverage. 
+  link: "https://shorts.growthx.club/p/networking-is-a-scam"
+  date: 2025-09-17
+
+- id: 6
+  tag: "Community"
+  text: |- 
+   A community is a group of people who believe in the same thing, or care about the same problem and are chasing that journey together.  
+   To make a community successful:
+    1. Curate: Communities are about density. The denser the ambition and experience inside, the sharper the conversations. And density only comes from curation. Leave people who aren't the right fit for your community.
+    2. Value Alignment: The values should be crystal clear. When values align, magic happens.
+    3. Access: Have a way for people to access other people in the community without fluff.
+  link: "https://shorts.growthx.club/p/community-is-a-scam"
+  date: 2025-09-18

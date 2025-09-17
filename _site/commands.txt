@@ -15,3 +15,13 @@ $ bundle exec jekyll server --watch --drafts
 to see prod posts:
 
 $ bundle exec jekyll serve
+
+
+
+6. To prepare site for prod env:
+This will:
+- Use production URLs instead of localhost
+- Enable any production-only features
+- Generate proper sharing URLs and meta tags
+
+$JEKYLL_ENV=production bundle exec jekyll serve

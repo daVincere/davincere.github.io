@@ -10,7 +10,9 @@ permalink: /mental-models/
   {% for model in sorted_models %}
     <div class="mental-model-card">
       <div class="mental-model-tag">{{ model.tag }}</div>
-      <div class="mental-model-text">{{ model.text }}</div>
+      <div class="mental-model-text">
+        {{ model.text | markdownify }}
+      </div>
       {% if model.link %}
         <div class="mental-model-link">
           <a href="{{ model.link }}" target="_blank">Link →</a>

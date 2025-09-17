@@ -1,6 +1,6 @@
 var store = [{
         "title": "Mental Models Collection",
-        "excerpt":"Building The most popular and well-loved companies, products, and causes have the strongest opponents. Outside of the extreme emotions -- 'I LOVE YOUR PRODUCT!!' or 'I HATE YOUR PRODUCT!!!' you're in the zone of mediocrity. To create passionate users, you MUST create passionate opponents. Link → September 09, 2025 Management...","categories": [],
+        "excerpt":"Building The most popular and well-loved companies, products, and causes have the strongest opponents. Outside of the extreme emotions – ‘I LOVE YOUR PRODUCT!!’ or ‘I HATE YOUR PRODUCT!!!’ you’re in the zone of mediocrity. To create passionate users, you MUST create passionate opponents. Link → September 09, 2025 Management...","categories": [],
         "tags": [],
         "url": "/mental-models/",
         "teaser": null

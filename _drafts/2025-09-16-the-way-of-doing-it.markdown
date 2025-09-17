@@ -1,0 +1,17 @@
+---
+layout: posts
+title:  "The Way of Doing It"
+date:  2025-09-15 01:06:04 +0530
+categories: blog
+tag: business, self
+---
+As you all might be aware that I am on, I am building my own business right now and by virtue of being in this interesting space, I get to meet, interact and absorb from people who are maybe 10, 20, 30 steps ahead of me. Now, at the same time, I have friends who are struggling in life, I have friends who are growing in life and I have friends who are I know people who are in the depths of despair as to the lack of eons happening to them in their life. 
+
+Now, I have quite an inquisitive mind and I generally am thinking if I am not worth and another thought that occurred to me one evening was what was the difference between people who made it and people who were not essentially doing it. what is the way of doing it and I have a few pointers on this and the way of doing things lies in all other forms of pursuit, the sense of said. What is it that you believe about yourself to be true? What is it that you know yourself as? Now, the sense of self in people, depending on where they come from or who they are, varies a lot. someone might be at the very low end of that self realization and someone might be at the peak of it and it's not to say that you need to know what you like and dislike to know who you are no essentially the the marker is "do you know who you are". 
+
+The people who do it are the people who are the most honest with themselves. 
+Honesty to yourself is one of the one of the things that one could just miss in the world of practicality. What is the point of... Let's say you want to go to the gym. Let's say you want a body right. The honest person, the person who would be honest with themselves would be like, if If I have said that I want to go to the gym every single day, then I should go to the you may be single day and there is no ifs and buts around it. The person, the practical man, would give very realistic argument as to why he should not good to him and because he is being practical and honest and and again this is not something that is for it he is true he will not be making it in doing it right 
+
+The second is to have a bit of ego. I have seen that people with a bit of ego when they say certain things or when they announce a certain thing because they take it upon their ego to fulfill those stars, what results What ends up happening is that they create a positive feedback loop of just doing it in their heads and are barely beholden to circumstances for not making it. 
+
+Third, you should have the humility and the grace of trying. Now this is one of those traits that everyone talks about. Everyone thinks that they understand but very few usually do. When I say trying, I do not mean trying a business, trying doing a business. What I mean is try doing the best at 10x your current capacity with in quarter of the time that you set out to do those things. Now this kind of false urgency is something that not a lot of people in my experience are comfortable, in fact I was also not this comfortable when I first heard of it, but I can say with deep and utmost, I am very proud of my agency and my team for doing these things. 
