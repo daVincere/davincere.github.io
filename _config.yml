@@ -128,3 +128,7 @@ collections:
   mental-models:
     output: true
     permalink: /:collection/:title/
+
+# This small feature powers the QR code on my visiting cards. The QR code redirects to this URL.
+# I can change it to any URL I want.
+qr_redirect: https://www.linkedin.com/in/iamhasime
