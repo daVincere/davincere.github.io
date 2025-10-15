@@ -1,6 +1,18 @@
 var store = [{
+        "title": "My Bucket List",
+        "excerpt":"   Work Chair   M4 Laptop for the next 10 years   iPhone 17   Car - Tata/Thar  ","categories": [],
+        "tags": [],
+        "url": "/limitless/bucketlist/",
+        "teaser": null
+      },{
+        "title": "Limitless Collection",
+        "excerpt":"                    My Bucket List                 A collection of goals and dreams I want to achieve in life                        October 15, 2025                                 ","categories": [],
+        "tags": [],
+        "url": "/limitless/",
+        "teaser": null
+      },{
         "title": "Mental Models Collection",
-        "excerpt":"Building The most popular and well-loved companies, products, and causes have the strongest opponents. Outside of the extreme emotions – ‘I LOVE YOUR PRODUCT!!’ or ‘I HATE YOUR PRODUCT!!!’ you’re in the zone of mediocrity. To create passionate users, you MUST create passionate opponents. Link → September 09, 2025 Management...","categories": [],
+        "excerpt":"Building The most popular and well-loved companies, products, and causes have the strongest opponents. Outside of the extreme emotions – ‘I LOVE YOUR PRODUCT!!’ or ‘I HATE YOUR PRODUCT!!!’ you’re in the zone of mediocrity. To create passionate users, you MUST create passionate opponents. Link → Link 2 → September...","categories": [],
         "tags": [],
         "url": "/mental-models/",
         "teaser": null

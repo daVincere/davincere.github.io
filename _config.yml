@@ -122,10 +122,21 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  
+  - scope:
+      path: "_limitless"
+      type: limitless
+    values:
+      layout: splash
+      author_profile: false
+      share: true
 
 # Collections
 collections:
   mental-models:
+    output: true
+    permalink: /:collection/:title/
+  limitless:
     output: true
     permalink: /:collection/:title/
 

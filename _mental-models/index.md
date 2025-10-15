@@ -16,6 +16,9 @@ permalink: /mental-models/
       {% if model.link %}
         <div class="mental-model-link">
           <a href="{{ model.link }}" target="_blank">Link →</a>
+          {% if model.link2 %}
+          <a href="{{ model.link2 }}" target="_blank">Link 2 →</a>
+          {% endif %}
         </div>
       {% endif %}
       <div class="mental-model-date">{{ model.date | date: "%B %d, %Y" }}</div>
