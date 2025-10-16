@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Limitless Collection"
 permalink: /limitless/
 ---
